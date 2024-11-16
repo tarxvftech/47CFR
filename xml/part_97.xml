@@ -1,142 +1,136 @@
 <?xml version="1.0"?>
 <DIV5 N="97" TYPE="PART" VOLUME="5" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-47/part-97&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;47 CFR Part 97&amp;quot;}">
-	<HEAD>PART 97&#x2014;AMATEUR RADIO SERVICE
-</HEAD>
-<AUTH>
-	<HED>Authority:</HED><PSPACE>47 U.S.C. 151-155, 301-609, unless otherwise noted.
-</PSPACE></AUTH>
-<SOURCE>
-	<HED>Source:</HED><PSPACE>54 FR 25857, June 20, 1989, unless otherwise noted.
-</PSPACE></SOURCE>
-<EDNOTE>
-	<HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 97 appear at 63 FR 54077, Oct. 8, 1998.</PSPACE></EDNOTE>
-<DIV6 N="A" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-47/part-97/subpart-A&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;47 CFR Part 97 Subpart A&amp;quot;}">
-	<HEAD>Subpart A&#x2014;General Provisions</HEAD>
-	<DIV8 N="97.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.1&quot;,&quot;citation&quot;:&quot;47 CFR 97.1&quot;}">
-		<HEAD>&#xA7; 97.1 Basis and purpose.</HEAD>
-		<P>The rules and regulations in this part are designed to provide an amateur radio service having a fundamental purpose as expressed in the following principles:</P>
-		<P>(a) Recognition and enhancement of the value of the amateur service to the public as a voluntary noncommercial communication service, particularly with respect to providing emergency communications.</P>
-		<P>(b) Continuation and extension of the amateur's proven ability to contribute to the advancement of the radio art.</P>
-		<P>(c) Encouragement and improvement of the amateur service through rules which provide for advancing skills in both the communication and technical phases of the art.</P>
-		<P>(d) Expansion of the existing reservoir within the amateur radio service of trained operators, technicians, and electronics experts.</P>
-		<P>(e) Continuation and extension of the amateur's unique ability to enhance international goodwill.</P>
+	<HEAD>PART 97&#x2014;AMATEUR RADIO SERVICE </HEAD>
+	<AUTH> <HED>Authority:</HED><PSPACE>47 U.S.C. 151-155, 301-609, unless otherwise noted.  </PSPACE></AUTH>
+	<SOURCE> <HED>Source:</HED><PSPACE>54 FR 25857, June 20, 1989, unless otherwise noted.  </PSPACE></SOURCE>
+	<EDNOTE> <HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 97 appear at 63 FR 54077, Oct. 8, 1998.</PSPACE></EDNOTE>
+	<DIV6 N="A" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-47/part-97/subpart-A&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;47 CFR Part 97 Subpart A&amp;quot;}">
+		<HEAD>Subpart A&#x2014;General Provisions</HEAD>
+		<DIV8 N="97.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.1&quot;,&quot;citation&quot;:&quot;47 CFR 97.1&quot;}">
+			<HEAD>&#xA7; 97.1 Basis and purpose.</HEAD>
+			<P>The rules and regulations in this part are designed to provide an amateur radio service having a fundamental purpose as expressed in the following principles:</P>
+			<P>(a) Recognition and enhancement of the value of the amateur service to the public as a voluntary noncommercial communication service, particularly with respect to providing emergency communications.</P>
+			<P>(b) Continuation and extension of the amateur's proven ability to contribute to the advancement of the radio art.</P>
+			<P>(c) Encouragement and improvement of the amateur service through rules which provide for advancing skills in both the communication and technical phases of the art.</P>
+			<P>(d) Expansion of the existing reservoir within the amateur radio service of trained operators, technicians, and electronics experts.</P>
+			<P>(e) Continuation and extension of the amateur's unique ability to enhance international goodwill.</P>
+		</DIV8>
+
+		<DIV8 N="97.3" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.3&quot;,&quot;citation&quot;:&quot;47 CFR 97.3&quot;}">
+			<HEAD>&#xA7; 97.3 Definitions.</HEAD>
+			<P>(a) The definitions of terms used in part 97 are:</P>
+			<P>(1) <I>Amateur operator.</I> A person named in an amateur operator/primary license station grant on the ULS consolidated licensee database to be the control operator of an amateur station.</P>
+			<P>(2) <I>Amateur radio services.</I> The amateur service, the amateur-satellite service and the radio amateur civil emergency service.</P>
+			<P>(4) <I>Amateur service.</I> A radiocommunication service for the purpose of self-training, intercommunication and technical investigations carried out by amateurs, that is, duly authorized persons interested in radio technique solely with a personal aim and without pecuniary interest.</P>
+			<P>(5) <I>Amateur station.</I> A station in an amateur radio service consisting of the apparatus necessary for carrying on radiocommunications.</P>
+			<P>(6) <I>Automatic control.</I> The use of devices and procedures for control of a station when it is transmitting so that compliance with the FCC Rules is achieved without the control operator being present at a control point.</P>
+			<P>(7) <I>Auxiliary station.</I> An amateur station, other than in a message forwarding system, that is transmitting communications point-to-point within a system of cooperating amateur stations.</P>
+			<P>(8) <I>Bandwidth.</I> The width of a frequency band outside of which the mean power of the transmitted signal is attenuated at least 26 dB below the mean power of the transmitted signal within the band.</P>
+			<P>(9) <I>Beacon.</I> An amateur station transmitting communications for the purposes of observation of propagation and reception or other related experimental activities.</P>
+			<P>(10) <I>Broadcasting.</I> Transmissions intended for reception by the general public, either direct or relayed.</P>
+			<P>(11) <I>Call sign system.</I> The method used to select a call sign for amateur station over-the-air identification purposes. The call sign systems are:</P>
+			<P>(i) <I>Sequential call sign system.</I> The call sign is selected by the FCC from an alphabetized list corresponding to the geographic region of the licensee's mailing address and operator class. The call sign is shown on the license. The FCC will issue public announcements detailing the procedures of the sequential call sign system.</P>
+			<P>(ii) <I>Vanity call sign system.</I> The call sign is selected by the FCC from a list of call signs requested by the licensee. The call sign is shown on the license. The FCC will issue public announcements detailing the procedures of the vanity call sign system.</P>
+			<P>(iii) <I>Special event call sign system.</I> The call sign is selected by the station licensee from a list of call signs shown on a common data base coordinated, maintained and disseminated by the amateur station special event call sign data base coordinators. The call sign must have the single letter prefix K, N or W, followed by a single numeral 0 through 9, followed by a single letter A through W or Y or Z (for example K1A). The special event call sign is substituted for the call sign shown on the station license grant while the station is transmitting. The FCC will issue public announcements detailing the procedures of the special event call sign system.</P>
+			<P>(12) <I>CEPT radio amateur license.</I> A license issued by a country belonging to the European Conference of Postal and Telecommunications Administrations (CEPT) that has adopted Recommendation T/R 61-01 (Nice 1985, Paris 1992, Nicosia 2003).</P>
+			<P>(13) <I>Control operator.</I> An amateur operator designated by the licensee of a station to be responsible for the transmissions from that station to assure compliance with the FCC Rules.</P>
+			<P>(14) <I>Control point.</I> The location at which the control operator function is performed.</P>
+			<P>(15) <I>CSCE.</I> Certificate of successful completion of an examination.</P>
+			<P>(16) <I>Earth station.</I> An amateur station located on, or within 50 km of, the Earth's surface intended for communications with space stations or with other Earth stations by means of one or more other objects in space.</P>
+			<P>(17) [Reserved]</P>
+			<P>(18) <I>External RF power amplifier.</I> A device capable of increasing power output when used in conjunction with, but not an integral part of, a transmitter.</P>
+			<P>(19) [Reserved]</P>
+			<P>(20) <I>FAA.</I> Federal Aviation Administration.</P>
+			<P>(21) <I>FCC.</I> Federal Communications Commission.</P>
+			<P>(22) <I>Frequency coordinator.</I> An entity, recognized in a local or regional area by amateur operators whose stations are eligible to be auxiliary or repeater stations, that recommends transmit/receive channels and associated operating and technical parameters for such stations in order to avoid or minimize potential interference.</P>
+			<P>(23) <I>Harmful interference.</I> Interference which endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs or repeatedly interrupts a radiocommunication service operating in accordance with the Radio Regulations.</P>
+			<P>(24) <I>IARP (International Amateur Radio Permit).</I> A document issued pursuant to the terms of the Inter-American Convention on an International Amateur Radio Permit by a country signatory to that Convention, other than the United States. Montrouis, Haiti. AG/doc.3216/95.</P>
+			<P>(25) <I>Indicator.</I> Words, letters or numerals appended to and separated from the call sign during the station identification.</P>
+			<P>(26) <I>Information bulletin.</I> A message directed only to amateur operators consisting solely of subject matter of direct interest to the amateur service.</P>
+			<P>(27) <I>In-law.</I> A parent, stepparent, sibling, or step-sibling of a licensee's spouse; the spouse of a licensee's sibling, step-sibling, child, or stepchild; or the spouse of a licensee's spouse's sibling or step-sibling.</P>
+			<P>(28) <I>International Morse code.</I> A dot-dash code as defined in ITU-T Recommendation F.1 (March, 1998), Division B, I. Morse code.</P>
+			<P>(29) <I>ITU.</I> International Telecommunication Union.</P>
+			<P>(30) <I>Line A.</I> Begins at Aberdeen, WA, running by great circle arc to the intersection of 48&#xB0; N, 120&#xB0; W, thence along parallel 48&#xB0; N, to the intersection of 95&#xB0; W, thence by great circle arc through the southernmost point of Duluth, MN, thence by great circle arc to 45&#xB0; N, 85&#xB0; W, thence southward along meridian 85&#xB0; W, to its intersection with parallel 41&#xB0; N, thence along parallel 41&#xB0; N, to its intersection with meridian 82&#xB0; W, thence by great circle arc through the southernmost point of Bangor, ME, thence by great circle arc through the southernmost point of Searsport, ME, at which point it terminates.</P>
+			<P>(31) <I>Local control.</I> The use of a control operator who directly manipulates the operating adjustments in the station to achieve compliance with the FCC Rules.</P>
+			<P>(32) <I>Message forwarding system.</I> A group of amateur stations participating in a voluntary, cooperative, interactive arrangement where communications are sent from the control operator of an originating station to the control operator of one or more destination stations by one or more forwarding stations.</P>
+			<P>(33) <I>National Radio Quiet Zone.</I> The area in Maryland, Virginia and West Virginia Bounded by 39&#xB0;15&#x2032; N on the north, 78&#xB0;30&#x2032; W on the east, 37&#xB0;30&#x2032; N on the south and 80&#xB0;30&#x2032; W on the west.</P>
+			<P>(34) <I>Physician.</I> For the purpose of this part, a person who is licensed to practice in a place where the amateur service is regulated by the FCC, as either a Doctor of Medicine (M.D.) or a Doctor of Osteopathy (D.O.)</P>
+			<P>(35) <I>Question pool.</I> All current examination questions for a designated written examination element.</P>
+			<P>(36) <I>Question set.</I> A series of examination questions on a given examination selected from the question pool.</P>
+			<P>(37) <I>Radio Regulations.</I> The latest ITU <I>Radio Regulations</I> to which the United States is a party.</P>
+			<P>(38) <I>RACES</I> (radio amateur civil emergency service). A radio service using amateur stations for civil defense communications during periods of local, regional or national civil emergencies.</P>
+			<P>(39) <I>Remote control.</I> The use of a control operator who indirectly manipulates the operating adjustments in the station through a control link to achieve compliance with the FCC Rules.</P>
+			<P>(40) <I>Repeater.</I> An amateur station that simultaneously retransmits the transmission of another amateur station on a different channel or channels.</P>
+			<P>(41) <I>Space station.</I> An amateur station located more than 50 km above the Earth's surface.</P>
+			<P>(42) <I>Space telemetry.</I> A one-way transmission from a space station of measurements made from the measuring instruments in a spacecraft, including those relating to the functioning of the spacecraft.</P>
+			<P>(43) <I>Spurious emission.</I> An emission, or frequencies outside the necessary bandwidth of a transmission, the level of which may be reduced without affecting the information being transmitted.</P>
+			<P>(44) <I>Telecommand.</I> A one-way transmission to initiate, modify, or terminate functions of a device at a distance.</P>
+			<P>(45) <I>Telecommand station.</I> An amateur station that transmits communications to initiate, modify or terminate functions of a space station.</P>
+			<P>(46) <I>Telemetry.</I> A one-way transmission of measurements at a distance from the measuring instrument.</P>
+			<P>(47) <I>Third party communications.</I> A message from the control operator (first party) of an amateur station to another amateur station control operator (second party) on behalf of another person (third party).</P>
+			<P>(48) <I>ULS (Universal Licensing System).</I> The consolidated database, application filing system and processing system for all Wireless Telecommunications Services.</P>
+			<P>(49) <I>VE.</I> Volunteer examiner.</P>
+			<P>(50) <I>VEC.</I> Volunteer-examiner coordinator.</P>
+			<P>(b) The definitions of technical symbols used in this part are:</P>
+			<P>(1) <I>EHF</I> (extremely high frequency). The frequency range 30-300 GHz.</P>
+			<P>(2) <I>EIRP</I> (equivalent isotropically radiated power). The product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain).</P>
+			<NOTE>
+				<HED>Note:</HED>
+				<P>Divide EIRP by 1.64 to convert to effective radiated power.</P></NOTE>
+			<P>(3) <I>ERP</I> (effective radiated power) (in a given direction). The product of the power supplied to the antenna and its gain relative to a half-wave dipole in a given direction.</P>
+			<NOTE>
+				<HED>Note:</HED>
+				<P>Multiply ERP by 1.64 to convert to equivalent isotropically radiated power.</P></NOTE>
+			<P>(4) <I>HF</I> (high frequency). The frequency range 3-30 MHz.</P>
+			<P>(5) <I>Hz.</I> Hertz.</P>
+			<P>(6) <I>LF</I> (low frequency). The frequency range 30-300 kHz.</P>
+			<P>(7) <I>m.</I> Meters.</P>
+			<P>(8) <I>MF</I> (medium frequency). The frequency range 300-3000 kHz.</P>
+			<P>(9) <I>PEP</I> (peak envelope power). The average power supplied to the antenna transmission line by a transmitter during one RF cycle at the crest of the modulation envelope taken under normal operating conditions.</P>
+			<P>(10) <I>RF.</I> Radio frequency.</P>
+			<P>(11) <I>SHF</I> (super high frequency). The frequency range 3-30 GHz.</P>
+			<P>(12) <I>UHF</I> (ultra high frequency). The frequency range 300-3000 MHz.</P>
+			<P>(13) <I>VHF</I> (very high frequency). The frequency range 30-300 MHz.</P>
+			<P>(14) <I>W.</I> Watts.</P>
+			<P>(c) The following terms are used in this part to indicate emission types. Refer to &#xA7; 2.201 of the FCC Rules, <I>Emission, modulation and transmission characteristics,</I> for information on emission type designators.</P>
+			<P>(1) <I>CW.</I> International Morse code telegraphy emissions having designators with A, C, H, J or R as the first symbol; 1 as the second symbol; A or B as the third symbol; and emissions J2A and J2B.</P>
+			<P>(2) <I>Data.</I> Telemetry, telecommand and computer communications emissions having (i) designators with A, C, D, F, G, H, J or R as the first symbol, 1 as the second symbol, and D as the third symbol; (ii) emission J2D; and (iii) emissions A1C, F1C, F2C, J2C, and J3C having an occupied bandwidth of 500 Hz or less when transmitted on an amateur service frequency below 30 MHz. Only a digital code of a type specifically authorized in this part may be transmitted.</P>
+			<P>(3) <I>Image.</I> Facsimile and television emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1, 2 or 3 as the second symbol; C or F as the third symbol; and emissions having B as the first symbol; 7, 8 or 9 as the second symbol; W as the third symbol.</P>
+			<P>(4) <I>MCW.</I> Tone-modulated international Morse code telegraphy emissions having designators with A, C, D, F, G, H or R as the first symbol; 2 as the second symbol; A or B as the third symbol.</P>
+			<P>(5) <I>Phone.</I> Speech and other sound emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1, 2, 3 or X as the second symbol; E as the third symbol. Also speech emissions having B or F as the first symbol; 7, 8 or 9 as the second symbol; E as the third symbol. MCW for the purpose of performing the station identification procedure, or for providing telegraphy practice interspersed with speech. Incidental tones for the purpose of selective calling or alerting or to control the level of a demodulated signal may also be considered phone.</P>
+			<P>(6) <I>Pulse.</I> Emissions having designators with K, L, M, P, Q, V or W as the first symbol; 0, 1, 2, 3, 7, 8, 9 or X as the second symbol; A, B, C, D, E, F, N, W or X as the third symbol.</P>
+			<P>(7) <I>RTTY.</I> Narrow-band direct-printing telegraphy emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1 as the second symbol; B as the third symbol; and emission J2B. Only a digital code of a type specifically authorized in this part may be transmitted.</P>
+			<P>(8) <I>SS.</I> Spread spectrum emissions using bandwidth-expansion modulation emissions having designators with A, C, D, F, G, H, J or R as the first symbol; X as the second symbol; X as the third symbol.</P>
+			<P>(9) <I>Test.</I> Emissions containing no information having the designators with N as the third symbol. Test does not include pulse emissions with no information or modulation unless pulse emissions are also authorized in the frequency band.</P>
+			<CITA TYPE="N">[54 FR 25857, June 20, 1989]
+		</CITA>
+		<EDNOTE>
+			<HED>Editorial Note:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting &#xA7; 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></PSPACE></EDNOTE>
 	</DIV8>
 
-	<DIV8 N="97.3" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.3&quot;,&quot;citation&quot;:&quot;47 CFR 97.3&quot;}">
-		<HEAD>&#xA7; 97.3 Definitions.</HEAD>
-		<P>(a) The definitions of terms used in part 97 are:</P>
-		<P>(1) <I>Amateur operator.</I> A person named in an amateur operator/primary license station grant on the ULS consolidated licensee database to be the control operator of an amateur station.</P>
-		<P>(2) <I>Amateur radio services.</I> The amateur service, the amateur-satellite service and the radio amateur civil emergency service.</P>
-		<P>(4) <I>Amateur service.</I> A radiocommunication service for the purpose of self-training, intercommunication and technical investigations carried out by amateurs, that is, duly authorized persons interested in radio technique solely with a personal aim and without pecuniary interest.</P>
-		<P>(5) <I>Amateur station.</I> A station in an amateur radio service consisting of the apparatus necessary for carrying on radiocommunications.</P>
-		<P>(6) <I>Automatic control.</I> The use of devices and procedures for control of a station when it is transmitting so that compliance with the FCC Rules is achieved without the control operator being present at a control point.</P>
-		<P>(7) <I>Auxiliary station.</I> An amateur station, other than in a message forwarding system, that is transmitting communications point-to-point within a system of cooperating amateur stations.</P>
-		<P>(8) <I>Bandwidth.</I> The width of a frequency band outside of which the mean power of the transmitted signal is attenuated at least 26 dB below the mean power of the transmitted signal within the band.</P>
-		<P>(9) <I>Beacon.</I> An amateur station transmitting communications for the purposes of observation of propagation and reception or other related experimental activities.</P>
-		<P>(10) <I>Broadcasting.</I> Transmissions intended for reception by the general public, either direct or relayed.</P>
-		<P>(11) <I>Call sign system.</I> The method used to select a call sign for amateur station over-the-air identification purposes. The call sign systems are:</P>
-		<P>(i) <I>Sequential call sign system.</I> The call sign is selected by the FCC from an alphabetized list corresponding to the geographic region of the licensee's mailing address and operator class. The call sign is shown on the license. The FCC will issue public announcements detailing the procedures of the sequential call sign system.</P>
-		<P>(ii) <I>Vanity call sign system.</I> The call sign is selected by the FCC from a list of call signs requested by the licensee. The call sign is shown on the license. The FCC will issue public announcements detailing the procedures of the vanity call sign system.</P>
-		<P>(iii) <I>Special event call sign system.</I> The call sign is selected by the station licensee from a list of call signs shown on a common data base coordinated, maintained and disseminated by the amateur station special event call sign data base coordinators. The call sign must have the single letter prefix K, N or W, followed by a single numeral 0 through 9, followed by a single letter A through W or Y or Z (for example K1A). The special event call sign is substituted for the call sign shown on the station license grant while the station is transmitting. The FCC will issue public announcements detailing the procedures of the special event call sign system.</P>
-		<P>(12) <I>CEPT radio amateur license.</I> A license issued by a country belonging to the European Conference of Postal and Telecommunications Administrations (CEPT) that has adopted Recommendation T/R 61-01 (Nice 1985, Paris 1992, Nicosia 2003).</P>
-		<P>(13) <I>Control operator.</I> An amateur operator designated by the licensee of a station to be responsible for the transmissions from that station to assure compliance with the FCC Rules.</P>
-		<P>(14) <I>Control point.</I> The location at which the control operator function is performed.</P>
-		<P>(15) <I>CSCE.</I> Certificate of successful completion of an examination.</P>
-		<P>(16) <I>Earth station.</I> An amateur station located on, or within 50 km of, the Earth's surface intended for communications with space stations or with other Earth stations by means of one or more other objects in space.</P>
-		<P>(17) [Reserved]</P>
-		<P>(18) <I>External RF power amplifier.</I> A device capable of increasing power output when used in conjunction with, but not an integral part of, a transmitter.</P>
-		<P>(19) [Reserved]</P>
-		<P>(20) <I>FAA.</I> Federal Aviation Administration.</P>
-		<P>(21) <I>FCC.</I> Federal Communications Commission.</P>
-		<P>(22) <I>Frequency coordinator.</I> An entity, recognized in a local or regional area by amateur operators whose stations are eligible to be auxiliary or repeater stations, that recommends transmit/receive channels and associated operating and technical parameters for such stations in order to avoid or minimize potential interference.</P>
-		<P>(23) <I>Harmful interference.</I> Interference which endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs or repeatedly interrupts a radiocommunication service operating in accordance with the Radio Regulations.</P>
-		<P>(24) <I>IARP (International Amateur Radio Permit).</I> A document issued pursuant to the terms of the Inter-American Convention on an International Amateur Radio Permit by a country signatory to that Convention, other than the United States. Montrouis, Haiti. AG/doc.3216/95.</P>
-		<P>(25) <I>Indicator.</I> Words, letters or numerals appended to and separated from the call sign during the station identification.</P>
-		<P>(26) <I>Information bulletin.</I> A message directed only to amateur operators consisting solely of subject matter of direct interest to the amateur service.</P>
-		<P>(27) <I>In-law.</I> A parent, stepparent, sibling, or step-sibling of a licensee's spouse; the spouse of a licensee's sibling, step-sibling, child, or stepchild; or the spouse of a licensee's spouse's sibling or step-sibling.</P>
-		<P>(28) <I>International Morse code.</I> A dot-dash code as defined in ITU-T Recommendation F.1 (March, 1998), Division B, I. Morse code.</P>
-		<P>(29) <I>ITU.</I> International Telecommunication Union.</P>
-		<P>(30) <I>Line A.</I> Begins at Aberdeen, WA, running by great circle arc to the intersection of 48&#xB0; N, 120&#xB0; W, thence along parallel 48&#xB0; N, to the intersection of 95&#xB0; W, thence by great circle arc through the southernmost point of Duluth, MN, thence by great circle arc to 45&#xB0; N, 85&#xB0; W, thence southward along meridian 85&#xB0; W, to its intersection with parallel 41&#xB0; N, thence along parallel 41&#xB0; N, to its intersection with meridian 82&#xB0; W, thence by great circle arc through the southernmost point of Bangor, ME, thence by great circle arc through the southernmost point of Searsport, ME, at which point it terminates.</P>
-		<P>(31) <I>Local control.</I> The use of a control operator who directly manipulates the operating adjustments in the station to achieve compliance with the FCC Rules.</P>
-		<P>(32) <I>Message forwarding system.</I> A group of amateur stations participating in a voluntary, cooperative, interactive arrangement where communications are sent from the control operator of an originating station to the control operator of one or more destination stations by one or more forwarding stations.</P>
-		<P>(33) <I>National Radio Quiet Zone.</I> The area in Maryland, Virginia and West Virginia Bounded by 39&#xB0;15&#x2032; N on the north, 78&#xB0;30&#x2032; W on the east, 37&#xB0;30&#x2032; N on the south and 80&#xB0;30&#x2032; W on the west.</P>
-		<P>(34) <I>Physician.</I> For the purpose of this part, a person who is licensed to practice in a place where the amateur service is regulated by the FCC, as either a Doctor of Medicine (M.D.) or a Doctor of Osteopathy (D.O.)</P>
-		<P>(35) <I>Question pool.</I> All current examination questions for a designated written examination element.</P>
-		<P>(36) <I>Question set.</I> A series of examination questions on a given examination selected from the question pool.</P>
-		<P>(37) <I>Radio Regulations.</I> The latest ITU <I>Radio Regulations</I> to which the United States is a party.</P>
-		<P>(38) <I>RACES</I> (radio amateur civil emergency service). A radio service using amateur stations for civil defense communications during periods of local, regional or national civil emergencies.</P>
-		<P>(39) <I>Remote control.</I> The use of a control operator who indirectly manipulates the operating adjustments in the station through a control link to achieve compliance with the FCC Rules.</P>
-		<P>(40) <I>Repeater.</I> An amateur station that simultaneously retransmits the transmission of another amateur station on a different channel or channels.</P>
-		<P>(41) <I>Space station.</I> An amateur station located more than 50 km above the Earth's surface.</P>
-		<P>(42) <I>Space telemetry.</I> A one-way transmission from a space station of measurements made from the measuring instruments in a spacecraft, including those relating to the functioning of the spacecraft.</P>
-		<P>(43) <I>Spurious emission.</I> An emission, or frequencies outside the necessary bandwidth of a transmission, the level of which may be reduced without affecting the information being transmitted.</P>
-		<P>(44) <I>Telecommand.</I> A one-way transmission to initiate, modify, or terminate functions of a device at a distance.</P>
-		<P>(45) <I>Telecommand station.</I> An amateur station that transmits communications to initiate, modify or terminate functions of a space station.</P>
-		<P>(46) <I>Telemetry.</I> A one-way transmission of measurements at a distance from the measuring instrument.</P>
-		<P>(47) <I>Third party communications.</I> A message from the control operator (first party) of an amateur station to another amateur station control operator (second party) on behalf of another person (third party).</P>
-		<P>(48) <I>ULS (Universal Licensing System).</I> The consolidated database, application filing system and processing system for all Wireless Telecommunications Services.</P>
-		<P>(49) <I>VE.</I> Volunteer examiner.</P>
-		<P>(50) <I>VEC.</I> Volunteer-examiner coordinator.</P>
-		<P>(b) The definitions of technical symbols used in this part are:</P>
-		<P>(1) <I>EHF</I> (extremely high frequency). The frequency range 30-300 GHz.</P>
-		<P>(2) <I>EIRP</I> (equivalent isotropically radiated power). The product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain).</P>
-		<NOTE>
-			<HED>Note:</HED>
-			<P>Divide EIRP by 1.64 to convert to effective radiated power.</P></NOTE>
-		<P>(3) <I>ERP</I> (effective radiated power) (in a given direction). The product of the power supplied to the antenna and its gain relative to a half-wave dipole in a given direction.</P>
-		<NOTE>
-			<HED>Note:</HED>
-			<P>Multiply ERP by 1.64 to convert to equivalent isotropically radiated power.</P></NOTE>
-		<P>(4) <I>HF</I> (high frequency). The frequency range 3-30 MHz.</P>
-		<P>(5) <I>Hz.</I> Hertz.</P>
-		<P>(6) <I>LF</I> (low frequency). The frequency range 30-300 kHz.</P>
-		<P>(7) <I>m.</I> Meters.</P>
-		<P>(8) <I>MF</I> (medium frequency). The frequency range 300-3000 kHz.</P>
-		<P>(9) <I>PEP</I> (peak envelope power). The average power supplied to the antenna transmission line by a transmitter during one RF cycle at the crest of the modulation envelope taken under normal operating conditions.</P>
-		<P>(10) <I>RF.</I> Radio frequency.</P>
-		<P>(11) <I>SHF</I> (super high frequency). The frequency range 3-30 GHz.</P>
-		<P>(12) <I>UHF</I> (ultra high frequency). The frequency range 300-3000 MHz.</P>
-		<P>(13) <I>VHF</I> (very high frequency). The frequency range 30-300 MHz.</P>
-		<P>(14) <I>W.</I> Watts.</P>
-		<P>(c) The following terms are used in this part to indicate emission types. Refer to &#xA7; 2.201 of the FCC Rules, <I>Emission, modulation and transmission characteristics,</I> for information on emission type designators.</P>
-		<P>(1) <I>CW.</I> International Morse code telegraphy emissions having designators with A, C, H, J or R as the first symbol; 1 as the second symbol; A or B as the third symbol; and emissions J2A and J2B.</P>
-		<P>(2) <I>Data.</I> Telemetry, telecommand and computer communications emissions having (i) designators with A, C, D, F, G, H, J or R as the first symbol, 1 as the second symbol, and D as the third symbol; (ii) emission J2D; and (iii) emissions A1C, F1C, F2C, J2C, and J3C having an occupied bandwidth of 500 Hz or less when transmitted on an amateur service frequency below 30 MHz. Only a digital code of a type specifically authorized in this part may be transmitted.</P>
-		<P>(3) <I>Image.</I> Facsimile and television emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1, 2 or 3 as the second symbol; C or F as the third symbol; and emissions having B as the first symbol; 7, 8 or 9 as the second symbol; W as the third symbol.</P>
-		<P>(4) <I>MCW.</I> Tone-modulated international Morse code telegraphy emissions having designators with A, C, D, F, G, H or R as the first symbol; 2 as the second symbol; A or B as the third symbol.</P>
-		<P>(5) <I>Phone.</I> Speech and other sound emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1, 2, 3 or X as the second symbol; E as the third symbol. Also speech emissions having B or F as the first symbol; 7, 8 or 9 as the second symbol; E as the third symbol. MCW for the purpose of performing the station identification procedure, or for providing telegraphy practice interspersed with speech. Incidental tones for the purpose of selective calling or alerting or to control the level of a demodulated signal may also be considered phone.</P>
-		<P>(6) <I>Pulse.</I> Emissions having designators with K, L, M, P, Q, V or W as the first symbol; 0, 1, 2, 3, 7, 8, 9 or X as the second symbol; A, B, C, D, E, F, N, W or X as the third symbol.</P>
-		<P>(7) <I>RTTY.</I> Narrow-band direct-printing telegraphy emissions having designators with A, C, D, F, G, H, J or R as the first symbol; 1 as the second symbol; B as the third symbol; and emission J2B. Only a digital code of a type specifically authorized in this part may be transmitted.</P>
-		<P>(8) <I>SS.</I> Spread spectrum emissions using bandwidth-expansion modulation emissions having designators with A, C, D, F, G, H, J or R as the first symbol; X as the second symbol; X as the third symbol.</P>
-		<P>(9) <I>Test.</I> Emissions containing no information having the designators with N as the third symbol. Test does not include pulse emissions with no information or modulation unless pulse emissions are also authorized in the frequency band.</P>
-		<CITA TYPE="N">[54 FR 25857, June 20, 1989]
+	<DIV8 N="97.5" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.5&quot;,&quot;citation&quot;:&quot;47 CFR 97.5&quot;}">
+		<HEAD>&#xA7; 97.5 Station license required.</HEAD>
+		<P>(a) The station apparatus must be under the physical control of a person named in an amateur station license grant on the ULS consolidated license database or a person authorized for alien reciprocal operation by &#xA7; 97.107 of this part, before the station may transmit on any amateur service frequency from any place that is:</P>
+		<P>(1) Within 50 km of the Earth's surface and at a place where the amateur service is regulated by the FCC;</P>
+		<P>(2) Within 50 km of the Earth's surface and aboard any vessel or craft that is documented or registered in the United States; or</P>
+		<P>(3) More than 50 km above the Earth's surface aboard any craft that is documented or registered in the United States.</P>
+		<P>(b) The types of station license grants are:</P>
+		<P>(1) <I>An operator/primary station license grant.</I> One, but only one, operator/primary station license grant may be held by any one person. The primary station license is granted together with the amateur operator license. Except for a representative of a foreign government, any person who qualifies by examination is eligible to apply for an operator/primary station license grant.</P>
+		<P>(2) <I>A club station license grant.</I> A club station license grant may be held only by the person who is the license trustee designated by an officer of the club. The trustee must be a person who holds an operator/primary station license grant. The club must be composed of at least four persons and must have a name, a document of organization, management, and a primary purpose devoted to amateur service activities consistent with this part.</P>
+		<P>(3) <I>A military recreation station license grant.</I> A military recreation station license grant may be held only by the person who is the license custodian designated by the official in charge of the United States military recreational premises where the station is situated. The person must not be a representative of a foreign government. The person need not hold an amateur operator license grant.</P>
+		<P>(c) The person named in the station license grant or who is authorized for alien reciprocal operation by &#xA7; 97.107 of this part may use, in accordance with the applicable rules of this part, the transmitting apparatus under the physical control of the person at places where the amateur service is regulated by the FCC.</P>
+		<P>(d) A CEPT radio-amateur license is issued to the person by the country of which the person is a citizen. The person must not:</P>
+		<P>(1) Be a resident alien or citizen of the United States, regardless of any other citizenship also held;</P>
+		<P>(2) Hold an FCC-issued amateur operator license nor reciprocal permit for alien amateur licensee;</P>
+		<P>(3) Be a prior amateur service licensee whose FCC-issued license was revoked, suspended for less than the balance of the license term and the suspension is still in effect, suspended for the balance of the license term and relicensing has not taken place, or surrendered for cancellation following notice of revocation, suspension or monetary forfeiture proceedings; or</P>
+		<P>(4) Be the subject of a cease and desist order that relates to amateur service operation and which is still in effect.</P>
+		<P>(e) An IARP is issued to the person by the country of which the person is a citizen. The person must not:</P>
+		<P>(1) Be a resident alien or citizen of the United States, regardless of any other citizenship also held;</P>
+		<P>(2) Hold an FCC-issued amateur operator license nor reciprocal permit for alien amateur licensee;</P>
+		<P>(3) Be a prior amateur service licensee whose FCC-issued license was revoked, suspended for less than the balance of the license term and the suspension is still in effect, suspended for the balance of the license term and relicensing has not taken place, or surrendered for cancellation following notice of revocation, suspension or monetary forfeiture proceedings; or</P>
+		<P>(4) Be the subject of a cease and desist order that relates to amateur service operation and which is still in effect.</P>
+		<CITA TYPE="N">[59 FR 54831, Nov. 2, 1994, as amended at 62 FR 17567, Apr. 10, 1997; 63 FR 68977, Dec. 14, 1998; 75 FR 78169, Dec. 15, 2010]
 	</CITA>
-	<EDNOTE>
-		<HED>Editorial Note:</HED><PSPACE>For <E T="04">Federal Register</E> citations affecting &#xA7; 97.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at <I>www.govinfo.gov.</I></PSPACE></EDNOTE>
-</DIV8>
-
-<DIV8 N="97.5" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.5&quot;,&quot;citation&quot;:&quot;47 CFR 97.5&quot;}">
-	<HEAD>&#xA7; 97.5 Station license required.</HEAD>
-	<P>(a) The station apparatus must be under the physical control of a person named in an amateur station license grant on the ULS consolidated license database or a person authorized for alien reciprocal operation by &#xA7; 97.107 of this part, before the station may transmit on any amateur service frequency from any place that is:</P>
-	<P>(1) Within 50 km of the Earth's surface and at a place where the amateur service is regulated by the FCC;</P>
-	<P>(2) Within 50 km of the Earth's surface and aboard any vessel or craft that is documented or registered in the United States; or</P>
-	<P>(3) More than 50 km above the Earth's surface aboard any craft that is documented or registered in the United States.</P>
-	<P>(b) The types of station license grants are:</P>
-	<P>(1) <I>An operator/primary station license grant.</I> One, but only one, operator/primary station license grant may be held by any one person. The primary station license is granted together with the amateur operator license. Except for a representative of a foreign government, any person who qualifies by examination is eligible to apply for an operator/primary station license grant.</P>
-	<P>(2) <I>A club station license grant.</I> A club station license grant may be held only by the person who is the license trustee designated by an officer of the club. The trustee must be a person who holds an operator/primary station license grant. The club must be composed of at least four persons and must have a name, a document of organization, management, and a primary purpose devoted to amateur service activities consistent with this part.</P>
-	<P>(3) <I>A military recreation station license grant.</I> A military recreation station license grant may be held only by the person who is the license custodian designated by the official in charge of the United States military recreational premises where the station is situated. The person must not be a representative of a foreign government. The person need not hold an amateur operator license grant.</P>
-	<P>(c) The person named in the station license grant or who is authorized for alien reciprocal operation by &#xA7; 97.107 of this part may use, in accordance with the applicable rules of this part, the transmitting apparatus under the physical control of the person at places where the amateur service is regulated by the FCC.</P>
-	<P>(d) A CEPT radio-amateur license is issued to the person by the country of which the person is a citizen. The person must not:</P>
-	<P>(1) Be a resident alien or citizen of the United States, regardless of any other citizenship also held;</P>
-	<P>(2) Hold an FCC-issued amateur operator license nor reciprocal permit for alien amateur licensee;</P>
-	<P>(3) Be a prior amateur service licensee whose FCC-issued license was revoked, suspended for less than the balance of the license term and the suspension is still in effect, suspended for the balance of the license term and relicensing has not taken place, or surrendered for cancellation following notice of revocation, suspension or monetary forfeiture proceedings; or</P>
-	<P>(4) Be the subject of a cease and desist order that relates to amateur service operation and which is still in effect.</P>
-	<P>(e) An IARP is issued to the person by the country of which the person is a citizen. The person must not:</P>
-	<P>(1) Be a resident alien or citizen of the United States, regardless of any other citizenship also held;</P>
-	<P>(2) Hold an FCC-issued amateur operator license nor reciprocal permit for alien amateur licensee;</P>
-	<P>(3) Be a prior amateur service licensee whose FCC-issued license was revoked, suspended for less than the balance of the license term and the suspension is still in effect, suspended for the balance of the license term and relicensing has not taken place, or surrendered for cancellation following notice of revocation, suspension or monetary forfeiture proceedings; or</P>
-	<P>(4) Be the subject of a cease and desist order that relates to amateur service operation and which is still in effect.</P>
-	<CITA TYPE="N">[59 FR 54831, Nov. 2, 1994, as amended at 62 FR 17567, Apr. 10, 1997; 63 FR 68977, Dec. 14, 1998; 75 FR 78169, Dec. 15, 2010]
-</CITA>
 </DIV8>
 
 <DIV8 N="97.7" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-47/section-97.7&quot;,&quot;citation&quot;:&quot;47 CFR 97.7&quot;}">

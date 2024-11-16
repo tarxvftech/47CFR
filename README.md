@@ -2,9 +2,18 @@
 
 This is a repository containing the text of Title 47 (Telecommunications) of the US Code of Federal Regulations.
 
+XML is pulled from the eCFR api, see the interactive docs:
+```
+https://www.ecfr.gov/developers/documentation/api/v1#/Versioner%20Service/get_api_versioner_v1_full__date__title__title__xml
+```
+
+[Cornell's CFR reference](https://www.law.cornell.edu/cfr/text/47) is much nicer to browse and read through.
+
 
 ## Projects: The Haunted VHF Band 219-220 MHz
-The first reason to make and use this repo is to propose changes to Part 80 and Part 97 to make the 219-220 MHz ham band usable for Amateurs in the United States again.
+The first reason to make and use this repo is to propose changes to Part
+80 and Part 97 to make the 219-220 MHz ham band usable for Amateurs in
+the United States again.
 
 This effort is being lead by [Open Research Institute](https://www.openresearch.institute/getting-started/).
 
