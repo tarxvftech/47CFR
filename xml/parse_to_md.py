@@ -18,10 +18,10 @@ def xmlet2markdown(et,level=0,prefixlevel=0):
             mydivlevel = getdivlevel(et)
             headerlevel = mydivlevel - prefixlevel
             header = "#"*(headerlevel)
-            markdown += f"{header} {child.text.strip()}\n"
+            markdown += f"{header} {child.text}\n"
             level = 0
         elif child.tag in ["AUTH","SOURCE","EDNOTE"]:
-            markdown += f"{indent} {child.tag} {child.text.strip()}\n"
+            markdown += f"{indent} {child.tag} {child.text}\n"
         elif child.tag in ["P"]:
             t = ''.join(child.itertext())
             markdown += f"{indent} {t}\n"

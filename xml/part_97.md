@@ -1,7 +1,7 @@
- PART 97—AMATEUR RADIO SERVICE
- AUTH 
- SOURCE 
- EDNOTE 
+ PART 97—AMATEUR RADIO SERVICE 
+ AUTH  
+ SOURCE  
+ EDNOTE  
 DIV6
 # Subpart A—General Provisions
 DIV8
@@ -101,6 +101,7 @@ HED
 CITA
  CITA:[54 FR 25857, June 20, 1989]
 		 EDNOTE 
+			
 DIV8
 ### § 97.5 Station license required.
  (a) The station apparatus must be under the physical control of a person named in an amateur station license grant on the ULS consolidated license database or a person authorized for alien reciprocal operation by § 97.107 of this part, before the station may transmit on any amateur service frequency from any place that is:
@@ -832,10 +833,12 @@ CITA
  CITA:[66 FR 20752, Apr. 25, 2001]
 DIV9
 #### Appendix 1 to Part 97—Places Where the Amateur Service is Regulated by the FCC
+
  In ITU Region 2, the amateur service is regulated by the FCC within the territorial limits of the 50 United States, District of Columbia, Caribbean Insular areas [Commonwealth of Puerto Rico, United States Virgin Islands (50 islets and cays) and Navassa Island], and Johnston Island (Islets East, Johnston, North and Sand) and Midway Island (Islets Eastern and Sand) in the Pacific Insular areas.
  In ITU Region 3, the amateur service is regulated by the FCC within the Pacific Insular territorial limits of American Samoa (seven islands), Baker Island, Commonwealth of Northern Mariana Islands, Guam Island, Howland Island, Jarvis Island, Kingman Reef, Palmyra Island (more than 50 islets) and Wake Island (Islets Peale, Wake and Wilkes).
 DIV9
 #### Appendix 2 to Part 97—VEC Regions
+
 FP-1
  FP-1:1. Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont.
 FP-1
