@@ -12,7 +12,7 @@ def anchor_name(section):
 
 def add_links(md,part=97):
     # pattern = r'§?\s*\d+\.\d+(\s*\(\s*\w+\s*\))*' 
-    pattern = r'(?<!name=")\w+(§?\s*\d+\.\d+(\s*\(\s*\w+\s*\))*)' 
+    pattern = r'(§\s*\d+\.\d+(\s*\(\s*\w+\s*\))*)' 
     def replacement(match):
         anchor = anchor_name(match.group())
         name = match.group()
@@ -81,8 +81,8 @@ def add_anchors(text,part='97'):
             # processed_lines.append(nl)
             processed_lines.append(f'<a name="{anchor}"></a>\n')
             # processed_lines.append(f'<span id="{anchor}">\n')
-            processed_lines.append(line)
             # processed_lines.append('</span>')
+            processed_lines.append(line)
         else:
             processed_lines.append(line)
 
