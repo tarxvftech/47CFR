@@ -7,8 +7,18 @@ XML is pulled from the eCFR api, see the interactive docs:
 https://www.ecfr.gov/developers/documentation/api/v1#/Versioner%20Service/get_api_versioner_v1_full__date__title__title__xml
 ```
 
-[Cornell's CFR reference](https://www.law.cornell.edu/cfr/text/47) is much nicer to browse and read through.
+[Cornell's CFR reference](https://www.law.cornell.edu/cfr/text/47) is
+much nicer to browse and read through than the XML, but it is not as
+easy to suggest edits with the XML or by copying and pasting. Similarly
+it's difficult to see all of a Part on one page.
 
+Which brings this repo: provide readable, writable, text versions of
+the regulations in a format that developers and others can edit while
+remaining readable during and after editing, while gaining the power of
+standard version control tools such as Git and Github.
+
+Proposals for changes should go through the Pull Request interface,
+and discussions around a set of changes should stick to that Pull Request.
 
 ## Projects: The Haunted VHF Band 219-220 MHz
 The first reason to make and use this repo is to propose changes to Part
