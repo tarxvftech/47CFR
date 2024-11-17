@@ -1158,7 +1158,7 @@ TABLE at [97.303(h)](https://www.law.cornell.edu/cfr/text/47/97.303#h)
 - (l)
 In the 219-220 MHz segment:
 <a name="97.303l1"></a>
-  - (1) Use is restricted to amateur stations participating as forwarding stations in fixed point-to-point digital message forwarding systems, including intercity packet backbone networks. It is not available for other purposes.
+  - ~~(1) Use is restricted to amateur stations participating as forwarding stations in fixed point-to-point digital message forwarding systems, including intercity packet backbone networks. It is not available for other purposes.~~
 <a name="97.303l2"></a>
   - (2) Amateur stations must not cause harmful interference to, and must accept interference from, stations authorized by:
 <a name="97.303l2i"></a>
@@ -1168,9 +1168,9 @@ In the 219-220 MHz segment:
 <a name="97.303l3"></a>
   - (3) No amateur station may transmit unless the licensee has given written notification of the station's specific geographic location for such transmissions in order to be incorporated into a database that has been made available to the public. The notification must be given at least 30 days prior to making such transmissions. The notification must be given to: The American Radio Relay League, Inc., 225 Main Street, Newington, CT 06111-1494.
 <a name="97.303l4"></a>
-  - (4) No amateur station may transmit from a location that is within 640 km of an AMTS coast station that operates in the 217-218 MHz and 219-220 MHz bands unless the amateur station licensee has given written notification of the station's specific geographic location for such transmissions to the AMTS licensee. The notification must be given at least 30 days prior to making such transmissions. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section.
+  - (4) No amateur station may transmit from a location that is within 640 km of an AMTS coast station that operates in the 217-218 MHz and 219-220 MHz bands unless the amateur station licensee has given written notification of the station's specific geographic location for such transmissions to the original AMTS licensee as listed in the ARRL database. The notification must be given at least 30 days prior to making such transmissions. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section. 
 <a name="97.303l5"></a>
-  - (5) No amateur station may transmit from a location that is within 80 km of an AMTS coast station that uses frequencies in the 217-218 MHz and 219-220 MHz bands unless that amateur station licensee holds written approval from that AMTS licensee. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section.
+  - ~~(5) No amateur station may transmit from a location that is within 80 km of an AMTS coast station that uses frequencies in the 217-218 MHz and 219-220 MHz bands unless that amateur station licensee holds written approval from that AMTS licensee. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section.~~
 <a name="97.303m"></a>
 - (m)
 In the 70 cm band:
