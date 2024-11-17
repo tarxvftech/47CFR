@@ -114,10 +114,12 @@ def add_anchors(text,part='97'):
             anchor = link
             # nl = f"[{name}]({link})\n"
             # processed_lines.append(nl)
-            processed_lines.append(f'<a name="{anchor}"></a>\n')
+            anchor_html=f'<a name="{anchor}"></a>'
             # processed_lines.append(f'<span id="{anchor}">\n')
             # processed_lines.append('</span>')
-            processed_lines.append("  "*len(current_section) + line)
+            indent = "  "*(len(current_section)-2) if len(current_section)>1 else ""
+            indent += "- " if len(current_section)>1 else ""
+            processed_lines.append(indent+ line)
         else:
             processed_lines.append(line)
 
