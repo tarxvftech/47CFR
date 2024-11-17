@@ -141,8 +141,11 @@ def add_anchors(text,part='97'):
 
 
 
-def xmlet2markdown(et,prefixlevel=0):
+def xmlet2markdown(et,prefixlevel=0,parents=None):
     markdown = ""
+    if parents == None:
+        parents = []
+    parents.append(et)
     for child in et:
         if child.tag in ["HEAD"]:
             mydivlevel = getdivlevel(et)
@@ -153,13 +156,37 @@ def xmlet2markdown(et,prefixlevel=0):
         elif child.tag in ["AUTH","SOURCE","EDNOTE"]:
             markdown += f"{child.tag} {child.text}\n"
         elif child.tag in ["TABLE"]:
-            markdown += "\n" + ET.tostring(child, method="html", encoding='unicode')
+            section = None
+            for i in range(len(parents)):
+                parent = parents[i*-1-1]
+                if 'N' in parent.keys():
+                    section = parent.get('N')
+                    break
+            if section:
+                try:
+                    ancestors = parents[-1:i*-1-2:-1][::-1]
+                    assert(parent==ancestors[0])
+                    idxs = []
+                    for i in range(len(ancestors)-1):
+                        idxs.append( list(ancestors[i]).index(ancestors[i+1]) ) 
+                    letter = ancestors[0][ idxs[0]-1 ].text.split()[0].strip()
+                    section = "97.301" + letter
+                    markdown += f"TABLE at "
+                    lastbit = section.replace('(','#').replace(')','') #"97.301#a"
+                    s=f"[{section}](https://www.law.cornell.edu/cfr/text/47/{lastbit})"
+                    markdown += s
+                except ValueError as e:
+                    markdown += f"TABLE section unclear beyond {section}, sorry."
+            else:
+                markdown += f"TABLE section unclear, sorry."
+                
+
             #add a link to the table in ecfr or render as markdown table
         else:
             if child.text:
                 markdown += f"{child.text}"
             if list(child):
-                markdown += xmlet2markdown(child,prefixlevel=prefixlevel)
+                markdown += xmlet2markdown(child,prefixlevel=prefixlevel,parents=parents)
             if child.tail:
                 markdown += f"{child.tail}"
     return markdown
