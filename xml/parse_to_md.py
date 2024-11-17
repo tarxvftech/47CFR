@@ -117,7 +117,7 @@ def add_anchors(text,part='97'):
             processed_lines.append(f'<a name="{anchor}"></a>\n')
             # processed_lines.append(f'<span id="{anchor}">\n')
             # processed_lines.append('</span>')
-            processed_lines.append(line)
+            processed_lines.append("  "*len(current_section) + line)
         else:
             processed_lines.append(line)
 
@@ -153,11 +153,11 @@ def xmlet2markdown(et,level=0,prefixlevel=0):
             #add a link to the table in ecfr or render as markdown table
         else:
             if child.text:
-                markdown += f"{child.text}"
+                markdown += f"{indent}{child.text}"
             if list(child):
-                markdown += xmlet2markdown(child,level=level,prefixlevel=prefixlevel)
+                markdown += indent + xmlet2markdown(child,level=level,prefixlevel=prefixlevel)
             if child.tail:
-                markdown += f"{child.tail}\n"
+                markdown += f"{indent}{child.tail}\n"
     return markdown
 
 def xml_to_markdown(xml_string):
