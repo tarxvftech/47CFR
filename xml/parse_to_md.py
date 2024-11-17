@@ -7,17 +7,21 @@ def getdivlevel(et):
     divlevel = int(et.tag[3:])
     return divlevel
 
-def add_links(md,part=97):
-    pattern = r'\b(\d+\.\d+)\((\w+)\)'
-    def replacement(match):
-        section = match.group(1)
-        subsection = match.group(2)
-        return f"[#{section}{subsection}](#abcd)"
-    result = re.sub(pattern, replacement, md)
-    # md = result
-    return md
+def anchor_name(section):
+    return section.replace('§','').strip().replace('(', '').replace(')', '') #.replace('.', '_')
 
-def add_links_to_legal_text(text,part='97'):
+def add_links(md,part=97):
+    # pattern = r'§?\s*\d+\.\d+(\s*\(\s*\w+\s*\))*' 
+    pattern = r'(?<!name=")\w+(§?\s*\d+\.\d+(\s*\(\s*\w+\s*\))*)' 
+    def replacement(match):
+        anchor = anchor_name(match.group())
+        name = match.group()
+        s = f"[{name}](#{anchor})"
+        return s
+    result = re.sub(pattern, replacement, md)
+    return result
+
+def add_anchors(text,part='97'):
     section_pattern = re.compile(
             r'^\#*\s*§?\s*(?P<part>%s\.\d+)'%(part)
             + r'|^\s*(?P<alpha>\([a-z]+\))' 
@@ -68,49 +72,22 @@ def add_links_to_legal_text(text,part='97'):
                         # current_section.pop()
                     # current_section.append(match.group('roman'))
 
-            section_label = ''.join(current_section).replace('(', '').replace(')', '').replace('.', '_')
-            link = f"#{section_label}"
+            section_label = ''.join(current_section)
+            section_label = anchor_name(section_label)
+            link = f"{section_label}"
             name = ''.join(current_section)
             anchor = link
-            nl = f"[{name}]({link})\n"
-            processed_lines.append(nl)
+            # nl = f"[{name}]({link})\n"
+            # processed_lines.append(nl)
+            processed_lines.append(f'<a name="{anchor}"></a>\n')
+            # processed_lines.append(f'<span id="{anchor}">\n')
             processed_lines.append(line)
+            # processed_lines.append('</span>')
         else:
             processed_lines.append(line)
 
     return '\n'.join(processed_lines)
 
-def add_anchors(md,part=97):
-    header_pattern = r'^(### §\s+(\d+\.\d+))'
-    subsection_pattern = r'^\((\w+)\)'
-
-    lines = md.splitlines()
-    result_lines = []
-    current_section_number = None  # Keep track of the current section number
-    for line in lines:
-        header_match = re.match(header_pattern, line)
-        a = False
-        if header_match:
-            current_section_number = header_match.group(2)
-            # Create anchor tag for section
-            anchor = f'<a name="{current_section_number}">'
-            result_lines.append(anchor)
-            a=True
-
-        # Check if the line is a subsection
-        subsection_match = re.match(subsection_pattern, line)
-        if subsection_match and current_section_number:
-            subsection_letter = subsection_match.group(1)
-            # Create anchor tag for subsection
-            anchor = f'<a name="{current_section_number}({subsection_letter})">'
-            result_lines.append(anchor)
-            a=True
-
-        result_lines.append(line)
-        if a:
-            result_lines.append("</a>")
-
-    return "\n".join(result_lines)
 
 
 def xmlet2markdown(et,level=0,prefixlevel=0):
@@ -153,9 +130,8 @@ def xml_to_markdown(xml_string):
     prefixlevel = getdivlevel(root)
     markdown = xmlet2markdown(root, level=0, prefixlevel=prefixlevel)
     part=root.get('N')
-    # markdown = add_anchors(markdown, part=part)
-    # markdown = add_links(markdown, part=part)
-    markdown = add_links_to_legal_text(markdown)
+    markdown = add_anchors(markdown, part=part)
+    markdown = add_links(markdown, part=part)
     return markdown
 
 
