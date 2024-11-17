@@ -10,18 +10,53 @@ def getdivlevel(et):
 def anchor_name(section):
     return section.replace('§','').strip().replace('(', '').replace(')', '') #.replace('.', '_')
 
-def add_links(md,part=97):
-    # pattern = r'§?\s*\d+\.\d+(\s*\(\s*\w+\s*\))*' 
-    pattern = r'(§\s*\d+\.\d+(\s*\(\s*\w+\s*\))*)' 
+def add_links(md,part=97,base_url=""):
+    """
+    Find references like 97.3(a)(11)(iii) and make them hyperlinks
+    """
+    # simple = r'(\d+\.\d+(\s*\(\s*\w+\s*\))*)' 
+    simple = r'(%s.\d+(\s*\(\s*\w+\s*\))*)'%(part)
+    #first process for references to multiple sections simultaneously,
+    #e.g. "§§ 97.305(c) and 97.307(f) of the part, an amateur station may transmit ...
+    def replacement2(match):
+        anchor = anchor_name(match.group())
+        name = match.group()
+        s = f"[{name}](#{anchor})"
+        return s
+
+    multiple = '§§' 
+    start = 0
+    while True:
+        start = md.find(multiple, start)
+        if start == -1:
+            break
+        newline = md.index('\n', start)
+        end = md.find('§', start+2, newline)
+        if end == -1:
+            end = newline
+        so = md[start:end]
+        sn = re.sub(simple, replacement2, so)
+        # print(so)
+        # print(sn)
+        md = md[:start] + sn + md[end:]
+        start = start + len(sn)
+
+    #then for single references
+    single = r'(?<!§)(?<=§ )\s*' + simple
     def replacement(match):
         anchor = anchor_name(match.group())
         name = match.group()
         s = f"[{name}](#{anchor})"
         return s
-    result = re.sub(pattern, replacement, md)
+    result = re.sub(single, replacement, md)
+
     return result
 
 def add_anchors(text,part='97'):
+    """
+    Track sections throughout a document, nested like 
+    97.3(a)(11)(iii) and give them anchors for future linking purposes
+    """
     section_pattern = re.compile(
             r'^\#*\s*§?\s*(?P<part>%s\.\d+)'%(part)
             + r'|^\s*(?P<alpha>\([a-z]+\))' 
@@ -131,7 +166,7 @@ def xml_to_markdown(xml_string):
     markdown = xmlet2markdown(root, level=0, prefixlevel=prefixlevel)
     part=root.get('N')
     markdown = add_anchors(markdown, part=part)
-    markdown = add_links(markdown, part=part)
+    markdown = add_links(markdown, part=part, base_url="")
     return markdown
 
 

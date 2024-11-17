@@ -15,7 +15,7 @@ EDNOTE
 
 <a name="97.1"></a>
 
-#### [§ 97.1](#97.1) Basis and purpose.
+#### § [97.1](#97.1) Basis and purpose.
 
 The rules and regulations in this part are designed to provide an amateur radio service having a fundamental purpose as expressed in the following principles:
 			
@@ -47,7 +47,7 @@ The rules and regulations in this part are designed to provide an amateur radio 
 
 <a name="97.3"></a>
 
-#### [§ 97.3](#97.3) Definitions.
+#### § [97.3](#97.3) Definitions.
 
 <a name="97.3a"></a>
 
@@ -398,7 +398,7 @@ Multiply ERP by 1.64 to convert to equivalent isotropically radiated power.
 			
 <a name="97.3c"></a>
 
-(c) The following terms are used in this part to indicate emission types. Refer to [§ 2.201](#2.201) of the FCC Rules, Emission, modulation and transmission characteristics, for information on emission type designators.
+(c) The following terms are used in this part to indicate emission types. Refer to § 2.201 of the FCC Rules, Emission, modulation and transmission characteristics, for information on emission type designators.
 
 			
 <a name="97.3c1"></a>
@@ -459,11 +459,11 @@ EDNOTE
 
 <a name="97.5"></a>
 
-#### [§ 97.5](#97.5) Station license required.
+#### § [97.5](#97.5) Station license required.
 
 <a name="97.5a"></a>
 
-(a) The station apparatus must be under the physical control of a person named in an amateur station license grant on the ULS consolidated license database or a person authorized for alien reciprocal operation by [§ 97.107](#97.107) of this part, before the station may transmit on any amateur service frequency from any place that is:
+(a) The station apparatus must be under the physical control of a person named in an amateur station license grant on the ULS consolidated license database or a person authorized for alien reciprocal operation by § [97.107](#97.107) of this part, before the station may transmit on any amateur service frequency from any place that is:
 		
 <a name="97.5a1"></a>
 
@@ -498,7 +498,7 @@ EDNOTE
 		
 <a name="97.5c"></a>
 
-(c) The person named in the station license grant or who is authorized for alien reciprocal operation by [§ 97.107](#97.107) of this part may use, in accordance with the applicable rules of this part, the transmitting apparatus under the physical control of the person at places where the amateur service is regulated by the FCC.
+(c) The person named in the station license grant or who is authorized for alien reciprocal operation by § [97.107](#97.107) of this part may use, in accordance with the applicable rules of this part, the transmitting apparatus under the physical control of the person at places where the amateur service is regulated by the FCC.
 		
 <a name="97.5d"></a>
 
@@ -551,7 +551,7 @@ EDNOTE
 
 <a name="97.7"></a>
 
-#### [§ 97.7](#97.7) Control operator required.
+#### § [97.7](#97.7) Control operator required.
 
 When transmitting, each amateur station must have a control operator. The control operator must be a person:
 	
@@ -561,7 +561,7 @@ When transmitting, each amateur station must have a control operator. The contro
 	
 <a name="97.7b"></a>
 
-(b) Who is authorized for alien reciprocal operation by [§ 97.107](#97.107) of this part.
+(b) Who is authorized for alien reciprocal operation by § [97.107](#97.107) of this part.
 	
 [63 FR 68978, Dec. 14, 1998]
 
@@ -574,7 +574,7 @@ When transmitting, each amateur station must have a control operator. The contro
 
 <a name="97.9"></a>
 
-#### [§ 97.9](#97.9) Operator license grant.
+#### § [97.9](#97.9) Operator license grant.
 
 <a name="97.9a"></a>
 
@@ -595,7 +595,7 @@ When transmitting, each amateur station must have a control operator. The contro
 
 <a name="97.11"></a>
 
-#### [§ 97.11](#97.11) Stations aboard ships or aircraft.
+#### § [97.11](#97.11) Stations aboard ships or aircraft.
 
 <a name="97.11a"></a>
 
@@ -617,30 +617,30 @@ When transmitting, each amateur station must have a control operator. The contro
 
 <a name="97.13"></a>
 
-#### [§ 97.13](#97.13) Restrictions on station location.
+#### § [97.13](#97.13) Restrictions on station location.
 
 <a name="97.13a"></a>
 
-(a) Before placing an amateur station on land of environmental importance or that is significant in American history, architecture or culture, the licensee may be required to take certain actions prescribed by §[§ 1.1305](#1.1305)-1.1319 of this chapter.
+(a) Before placing an amateur station on land of environmental importance or that is significant in American history, architecture or culture, the licensee may be required to take certain actions prescribed by §§ 1.1305-1.1319 of this chapter.
 	
 <a name="97.13b"></a>
 
-(b) A station within 1600 m (1 mile) of an FCC monitoring facility must protect that facility from harmful interference. Failure to do so could result in imposition of operating restrictions upon the amateur station pursuant to [§ 97.121](#97.121). Geographical coordinates of the facilities that require protection are listed in [§ 0.121(c)](#0.121c) of this chapter.
+(b) A station within 1600 m (1 mile) of an FCC monitoring facility must protect that facility from harmful interference. Failure to do so could result in imposition of operating restrictions upon the amateur station pursuant to § [97.121](#97.121). Geographical coordinates of the facilities that require protection are listed in § 0.121(c) of this chapter.
 	
 <a name="97.13c"></a>
 
-(c) Before causing or allowing an amateur station to transmit from any place where the operation of the station could cause human exposure to RF electromagnetic field levels in excess of those allowed under [§ 1.1310](#1.1310) of this chapter, the licensee is required to take certain actions.
+(c) Before causing or allowing an amateur station to transmit from any place where the operation of the station could cause human exposure to RF electromagnetic field levels in excess of those allowed under § 1.1310 of this chapter, the licensee is required to take certain actions.
 	
 <a name="97.13c1"></a>
 
-(1) The licensee shall ensure compliance with the Commission's radio frequency exposure requirements in §[§ 1.1307(b)](#1.1307b), 2.1091, and 2.1093 of this chapter, where applicable. In lieu of evaluation with the general population/uncontrolled exposure limits, amateur licensees may evaluate their operation with respect to members of his or her immediate household using the occupational/controlled exposure limits in [§ 1.1310](#1.1310), provided appropriate training and information has been accessed by the amateur licensee and members of his/her household. RF exposure of other nearby persons who are not members of the amateur licensee's household must be evaluated with respect to the general population/uncontrolled exposure limits. Appropriate methodologies and guidance for evaluating amateur radio service operation is described in the Office of Engineering and Technology (
+(1) The licensee shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, where applicable. In lieu of evaluation with the general population/uncontrolled exposure limits, amateur licensees may evaluate their operation with respect to members of his or her immediate household using the occupational/controlled exposure limits in § 1.1310, provided appropriate training and information has been accessed by the amateur licensee and members of his/her household. RF exposure of other nearby persons who are not members of the amateur licensee's household must be evaluated with respect to the general population/uncontrolled exposure limits. Appropriate methodologies and guidance for evaluating amateur radio service operation is described in the Office of Engineering and Technology (
 OET) 
 Bulletin 65, Supplement B.
 
 	
 <a name="97.13c2"></a>
 
-(2) If the routine environmental evaluation indicates that the RF electromagnetic fields could exceed the limits contained in [§ 1.1310](#1.1310) of this chapter in accessible areas, the licensee must take action to prevent human exposure to such RF electromagnetic fields. Further information on evaluating compliance with these limits can be found in the FCC's OET Bulletin Number 65, “Evaluating Compliance with FCC Guidelines for Human Exposure to Radiofrequency Electromagnetic Fields.”
+(2) If the routine environmental evaluation indicates that the RF electromagnetic fields could exceed the limits contained in § 1.1310 of this chapter in accessible areas, the licensee must take action to prevent human exposure to such RF electromagnetic fields. Further information on evaluating compliance with these limits can be found in the FCC's OET Bulletin Number 65, “Evaluating Compliance with FCC Guidelines for Human Exposure to Radiofrequency Electromagnetic Fields.”
 	
 [54 FR 25857, June 20, 1989, as amended at 55 FR 20398, May 16, 1990; 61 FR 41019, Aug. 7, 1996; 62 FR 47963, Sept. 12, 1997; 62 FR 49557, Sept. 22, 1997; 62 FR 61448, Nov. 18, 1997; 63 FR 68978, Dec. 14, 1998; 65 FR 6549, Feb. 10, 2000; 80 FR 53752, Sept. 8, 2015; 85 FR 18151, Apr. 1, 2020]
 
@@ -653,7 +653,7 @@ Bulletin 65, Supplement B.
 
 <a name="97.15"></a>
 
-#### [§ 97.15](#97.15) Station antenna structures.
+#### § [97.15](#97.15) Station antenna structures.
 
 <a name="97.15a"></a>
 
@@ -679,7 +679,7 @@ Bulletin 65, Supplement B.
 
 <a name="97.17"></a>
 
-#### [§ 97.17](#97.17) Application for new license grant.
+#### § [97.17](#97.17) Application for new license grant.
 
 <a name="97.17a"></a>
 
@@ -717,7 +717,7 @@ Bulletin 65, Supplement B.
 
 <a name="97.19"></a>
 
-#### [§ 97.19](#97.19) Application for a vanity call sign.
+#### § [97.19](#97.19) Application for a vanity call sign.
 
 <a name="97.19a"></a>
 
@@ -725,7 +725,7 @@ Bulletin 65, Supplement B.
 	
 <a name="97.19b"></a>
 
-(b) Each application for a modification of an operator/primary or club station license grant, or the renewal thereof, to show a call sign selected by the vanity call sign system must be filed in accordance with [§ 1.913](#1.913) of this chapter.
+(b) Each application for a modification of an operator/primary or club station license grant, or the renewal thereof, to show a call sign selected by the vanity call sign system must be filed in accordance with § 1.913 of this chapter.
 	
 <a name="97.19c"></a>
 
@@ -737,7 +737,7 @@ Bulletin 65, Supplement B.
 	
 <a name="97.19c2"></a>
 
-(2) A call sign shown on a surrendered or canceled license grant (except for a license grant that is canceled pursuant to [§ 97.31](#97.31)) is not available to the vanity call sign system for 2 years following the date such action is taken. (The availability of a call sign shown on a license canceled pursuant to [§ 97.31](#97.31) is governed by paragraph (c)(3) of this section.)
+(2) A call sign shown on a surrendered or canceled license grant (except for a license grant that is canceled pursuant to § [97.31](#97.31)) is not available to the vanity call sign system for 2 years following the date such action is taken. (The availability of a call sign shown on a license canceled pursuant to § [97.31](#97.31) is governed by paragraph (c)(3) of this section.)
 	
 <a name="97.19c2i"></a>
 
@@ -749,7 +749,7 @@ Bulletin 65, Supplement B.
 	
 <a name="97.19c3"></a>
 
-(3) A call sign shown on a license canceled pursuant to [§ 97.31](#97.31) of this part is not available to the vanity call sign system for 2 years following the person's death, or for 2 years following the expiration of the license grant, whichever is sooner. If, however, a license is canceled more than 2 years after the licensee's death (or within 30 days before the second anniversary of the licensee's death), the call sign is not available to the vanity call sign system for 30 days following the date such action is taken. The following applicants are exempt from this 2-year period:
+(3) A call sign shown on a license canceled pursuant to § [97.31](#97.31) of this part is not available to the vanity call sign system for 2 years following the person's death, or for 2 years following the expiration of the license grant, whichever is sooner. If, however, a license is canceled more than 2 years after the licensee's death (or within 30 days before the second anniversary of the licensee's death), the call sign is not available to the vanity call sign system for 30 days following the date such action is taken. The following applicants are exempt from this 2-year period:
 	
 <a name="97.19c3i"></a>
 
@@ -795,7 +795,7 @@ Bulletin 65, Supplement B.
 
 <a name="97.21"></a>
 
-#### [§ 97.21](#97.21) Application for a modified or renewed license grant.
+#### § [97.21](#97.21) Application for a modified or renewed license grant.
 
 <a name="97.21a"></a>
 
@@ -803,7 +803,7 @@ Bulletin 65, Supplement B.
 	
 <a name="97.21a1"></a>
 
-(1) Must apply to the FCC for a modification of the license grant as necessary to show the correct mailing and email address, licensee name, club name, license trustee name, or license custodian name in accordance with [§ 1.913](#1.913) of this chapter. For a club or military recreation station license grant, the application must be presented in document form to a Club Station Call Sign Administrator who must submit the information thereon to the FCC in an electronic batch file. The Club Station Call Sign Administrator must retain the collected information for at least 15 months and make it available to the FCC upon request. A Club Station Call Sign Administrator shall not file with the Commission any application to modify a club station license grant that was submitted by a person other than the trustee as shown on the license grant, except an application to change the club station license trustee. An application to modify a club station license grant to change the license trustee name must be submitted to a Club Station Call Sign Administrator and must be signed by an officer of the club.
+(1) Must apply to the FCC for a modification of the license grant as necessary to show the correct mailing and email address, licensee name, club name, license trustee name, or license custodian name in accordance with § 1.913 of this chapter. For a club or military recreation station license grant, the application must be presented in document form to a Club Station Call Sign Administrator who must submit the information thereon to the FCC in an electronic batch file. The Club Station Call Sign Administrator must retain the collected information for at least 15 months and make it available to the FCC upon request. A Club Station Call Sign Administrator shall not file with the Commission any application to modify a club station license grant that was submitted by a person other than the trustee as shown on the license grant, except an application to change the club station license trustee. An application to modify a club station license grant to change the license trustee name must be submitted to a Club Station Call Sign Administrator and must be signed by an officer of the club.
 	
 <a name="97.21a2"></a>
 
@@ -811,15 +811,15 @@ Bulletin 65, Supplement B.
 	
 <a name="97.21a3"></a>
 
-(3) May apply to the FCC for renewal of the license grant for another term in accordance with §[§ 1.913](#1.913) and 1.949 of this chapter. Application for renewal of a Technician Plus Class operator/primary station license will be processed as an application for renewal of a Technician Class operator/primary station license.
+(3) May apply to the FCC for renewal of the license grant for another term in accordance with §§ 1.913 and 1.949 of this chapter. Application for renewal of a Technician Plus Class operator/primary station license will be processed as an application for renewal of a Technician Class operator/primary station license.
 	
 <a name="97.21a3i"></a>
 
-(i) For a station license grant showing a call sign obtained through the vanity call sign system, the application must be filed in accordance with [§ 97.19](#97.19) of this part in order to have the vanity call sign reassigned to the station.
+(i) For a station license grant showing a call sign obtained through the vanity call sign system, the application must be filed in accordance with § [97.19](#97.19) of this part in order to have the vanity call sign reassigned to the station.
 	
 <a name="97.21a3ii"></a>
 
-(ii) For a primary station license grant showing a call sign obtained through the sequential call sign system, and for a primary station license grant showing a call sign obtained through the vanity call sign system but whose grantee does not want to have the vanity call sign reassigned to the station, the application must be filed with the FCC in accordance with [§ 1.913](#1.913) of this chapter. When the application has been received by the FCC on or before the license expiration date, the license operating authority is continued until the final disposition of the application.
+(ii) For a primary station license grant showing a call sign obtained through the sequential call sign system, and for a primary station license grant showing a call sign obtained through the vanity call sign system but whose grantee does not want to have the vanity call sign reassigned to the station, the application must be filed with the FCC in accordance with § 1.913 of this chapter. When the application has been received by the FCC on or before the license expiration date, the license operating authority is continued until the final disposition of the application.
 	
 <a name="97.21a3iii"></a>
 
@@ -844,7 +844,7 @@ Bulletin 65, Supplement B.
 
 <a name="97.23"></a>
 
-#### [§ 97.23](#97.23) Mailing and email addresses.
+#### § [97.23](#97.23) Mailing and email addresses.
 
 Each license grant must show the grantee's correct name, mailing address, and email address. The email address must be an address where the grantee can receive electronic correspondence. Revocation of the station license or suspension of the operator license may result when correspondence from the FCC is returned as undeliverable because the grantee failed to provide the correct email address.
 	
@@ -859,7 +859,7 @@ Each license grant must show the grantee's correct name, mailing address, and em
 
 <a name="97.25"></a>
 
-#### [§ 97.25](#97.25) License term.
+#### § [97.25](#97.25) License term.
 
 An amateur service license is normally granted for a 10-year term.
 	
@@ -874,7 +874,7 @@ An amateur service license is normally granted for a 10-year term.
 
 <a name="97.27"></a>
 
-#### [§ 97.27](#97.27) FCC modification of station license grant.
+#### § [97.27](#97.27) FCC modification of station license grant.
 
 <a name="97.27a"></a>
 
@@ -903,9 +903,9 @@ An amateur service license is normally granted for a 10-year term.
 
 <a name="97.29"></a>
 
-#### [§ 97.29](#97.29) Replacement license grant document.
+#### § [97.29](#97.29) Replacement license grant document.
 
-Each grantee whose amateur station license grant document is lost, mutilated or destroyed may apply to the FCC for a replacement in accordance with [§ 1.913](#1.913) of this chapter.
+Each grantee whose amateur station license grant document is lost, mutilated or destroyed may apply to the FCC for a replacement in accordance with § 1.913 of this chapter.
 	
 [63 FR 68979, Dec. 14, 1998]
 
@@ -918,12 +918,12 @@ Each grantee whose amateur station license grant document is lost, mutilated or 
 
 <a name="97.31"></a>
 
-#### [§ 97.31](#97.31) Cancellation on account of the licensee's death.
+#### § [97.31](#97.31) Cancellation on account of the licensee's death.
 
 <a name="97.31a"></a>
 
-(a) A person may request cancellation of an operator/primary station license grant on account of the licensee's death by submitting a signed request that includes a death certificate, obituary, or Social Security Death Index data that shows the person named in the operator/primary station license grant has died. Such a request may be submitted as a pleading associated with the deceased licensee's license. See [§ 1.45](#1.45) of this chapter. In addition, the Commission may cancel an operator/primary station license grant if it becomes aware of the grantee's death through other means. No action will be taken during the last thirty days of the post-expiration grace period (
-see [§ 97.21(b)](#97.21b)) on a request to cancel a license due to the licensee's death.
+(a) A person may request cancellation of an operator/primary station license grant on account of the licensee's death by submitting a signed request that includes a death certificate, obituary, or Social Security Death Index data that shows the person named in the operator/primary station license grant has died. Such a request may be submitted as a pleading associated with the deceased licensee's license. See § 1.45 of this chapter. In addition, the Commission may cancel an operator/primary station license grant if it becomes aware of the grantee's death through other means. No action will be taken during the last thirty days of the post-expiration grace period (
+see § [97.21(b)](#97.21b)) on a request to cancel a license due to the licensee's death.
 
 	
 <a name="97.31b"></a>
@@ -948,7 +948,7 @@ see [§ 97.21(b)](#97.21b)) on a request to cancel a license due to the licensee
 
 <a name="97.101"></a>
 
-#### [§ 97.101](#97.101) General standards.
+#### § [97.101](#97.101) General standards.
 
 <a name="97.101a"></a>
 
@@ -974,7 +974,7 @@ see [§ 97.21(b)](#97.21b)) on a request to cancel a license due to the licensee
 
 <a name="97.103"></a>
 
-#### [§ 97.103](#97.103) Station licensee responsibilities.
+#### § [97.103](#97.103) Station licensee responsibilities.
 
 <a name="97.103a"></a>
 
@@ -999,7 +999,7 @@ see [§ 97.21(b)](#97.21b)) on a request to cancel a license due to the licensee
 
 <a name="97.105"></a>
 
-#### [§ 97.105](#97.105) Control operator duties.
+#### § [97.105](#97.105) Control operator duties.
 
 <a name="97.105a"></a>
 
@@ -1017,7 +1017,7 @@ see [§ 97.21(b)](#97.21b)) on a request to cancel a license due to the licensee
 
 <a name="97.107"></a>
 
-#### [§ 97.107](#97.107) Reciprocal operating authority.
+#### § [97.107](#97.107) Reciprocal operating authority.
 
 A non-citizen of the United States (“alien”) holding an amateur service authorization granted by the alien's government is authorized to be the control operator of an amateur station located at places where the amateur service is regulated by the FCC, provided there is in effect a multilateral or bilateral reciprocal operating arrangement, to which the United States and the alien's government are parties, for amateur service operation on a reciprocal basis. The FCC will issue public announcements listing the countries with which the United States has such an arrangement. No citizen of the United States or person holding an FCC amateur operator/primary station license grant is eligible for the reciprocal operating authority granted by this section. The privileges granted to a control operator under this authorization are:
 	
@@ -1069,7 +1069,7 @@ Relating to the Operation by Citizens of Either Country of Certain Radio Equipme
 
 <a name="97.109"></a>
 
-#### [§ 97.109](#97.109) Station control.
+#### § [97.109](#97.109) Station control.
 
 <a name="97.109a"></a>
 
@@ -1098,7 +1098,7 @@ Relating to the Operation by Citizens of Either Country of Certain Radio Equipme
 
 <a name="97.111"></a>
 
-#### [§ 97.111](#97.111) Authorized transmissions.
+#### § [97.111](#97.111) Authorized transmissions.
 
 <a name="97.111a"></a>
 
@@ -1167,7 +1167,7 @@ Relating to the Operation by Citizens of Either Country of Certain Radio Equipme
 
 <a name="97.113"></a>
 
-#### [§ 97.113](#97.113) Prohibited transmissions.
+#### § [97.113](#97.113) Prohibited transmissions.
 
 <a name="97.113a"></a>
 
@@ -1232,7 +1232,7 @@ Relating to the Operation by Citizens of Either Country of Certain Radio Equipme
 
 <a name="97.115"></a>
 
-#### [§ 97.115](#97.115) Third party communications.
+#### § [97.115](#97.115) Third party communications.
 
 <a name="97.115a"></a>
 
@@ -1277,7 +1277,7 @@ Relating to the Operation by Citizens of Either Country of Certain Radio Equipme
 
 <a name="97.117"></a>
 
-#### [§ 97.117](#97.117) International communications.
+#### § [97.117](#97.117) International communications.
 
 Transmissions to a different country, where permitted, shall be limited to communications incidental to the purposes of the amateur service and to remarks of a personal character.
 	
@@ -1292,7 +1292,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.119"></a>
 
-#### [§ 97.119](#97.119) Station identification.
+#### § [97.119](#97.119) Station identification.
 
 <a name="97.119a"></a>
 
@@ -1316,7 +1316,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 	
 <a name="97.119b4"></a>
 
-(4) By an image emission conforming to the applicable transmission standards, either color or monochrome, of [§ 73.682(a)](#73.682a) of the FCC Rules when all or part of the communications are transmitted in the same image emission
+(4) By an image emission conforming to the applicable transmission standards, either color or monochrome, of § 73.682(a) of the FCC Rules when all or part of the communications are transmitted in the same image emission
 	
 <a name="97.119c"></a>
 
@@ -1332,7 +1332,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 	
 <a name="97.119f"></a>
 
-(f) When the control operator is a person who is exercising the rights and privileges authorized by [§ 97.9(b)](#97.9b) of this part, an indicator must be included after the call sign as follows:
+(f) When the control operator is a person who is exercising the rights and privileges authorized by § [97.9(b)](#97.9b) of this part, an indicator must be included after the call sign as follows:
 	
 <a name="97.119f1"></a>
 
@@ -1348,7 +1348,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 	
 <a name="97.119g"></a>
 
-(g) When the station is transmitting under the authority of [§ 97.107](#97.107) of this part, an indicator consisting of the appropriate letter-numeral designating the station location must be included before the call sign that was issued to the station by the country granting the license. For an amateur service license granted by the Government of Canada, however, the indicator must be included after the call sign. At least once during each intercommunication, the identification announcement must include the geographical location as nearly as possible by city and state, commonwealth or possession.
+(g) When the station is transmitting under the authority of § [97.107](#97.107) of this part, an indicator consisting of the appropriate letter-numeral designating the station location must be included before the call sign that was issued to the station by the country granting the license. For an amateur service license granted by the Government of Canada, however, the indicator must be included after the call sign. At least once during each intercommunication, the identification announcement must include the geographical location as nearly as possible by city and state, commonwealth or possession.
 	
 [54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 55 FR 30457, July 26, 1990; 56 FR 28, Jan. 2, 1991; 62 FR 17567, Apr. 10, 1997; 63 FR 68980, Dec. 14, 1998; 64 FR 51471, Sept. 23, 1999; 66 FR 20752, Apr. 25, 2001; 75 FR 78171, Dec. 15, 2010]
 
@@ -1361,7 +1361,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.121"></a>
 
-#### [§ 97.121](#97.121) Restricted operation.
+#### § [97.121](#97.121) Restricted operation.
 
 <a name="97.121a"></a>
 
@@ -1386,7 +1386,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.201"></a>
 
-#### [§ 97.201](#97.201) Auxiliary station.
+#### § [97.201](#97.201) Auxiliary station.
 
 <a name="97.201a"></a>
 
@@ -1419,7 +1419,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.203"></a>
 
-#### [§ 97.203](#97.203) Beacon station.
+#### § [97.203](#97.203) Beacon station.
 
 <a name="97.203a"></a>
 
@@ -1468,7 +1468,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.205"></a>
 
-#### [§ 97.205](#97.205) Repeater station.
+#### § [97.205](#97.205) Repeater station.
 
 <a name="97.205a"></a>
 
@@ -1521,7 +1521,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.207"></a>
 
-#### [§ 97.207](#97.207) Space station.
+#### § [97.207](#97.207) Space station.
 
 <a name="97.207a"></a>
 
@@ -1678,7 +1678,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.209"></a>
 
-#### [§ 97.209](#97.209) Earth station.
+#### § [97.209](#97.209) Earth station.
 
 <a name="97.209a"></a>
 
@@ -1707,7 +1707,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.211"></a>
 
-#### [§ 97.211](#97.211) Space telecommand station.
+#### § [97.211](#97.211) Space telecommand station.
 
 <a name="97.211a"></a>
 
@@ -1744,7 +1744,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 
 <a name="97.213"></a>
 
-#### [§ 97.213](#97.213) Telecommand of an amateur station.
+#### § [97.213](#97.213) Telecommand of an amateur station.
 
 An amateur station on or within 50 km of the Earth's surface may be under telecommand where:
 	
@@ -1775,7 +1775,7 @@ An amateur station on or within 50 km of the Earth's surface may be under teleco
 
 <a name="97.215"></a>
 
-#### [§ 97.215](#97.215) Telecommand of model craft.
+#### § [97.215](#97.215) Telecommand of model craft.
 
 An amateur station transmitting signals to control a model craft may be operated as follows:
 	
@@ -1802,7 +1802,7 @@ An amateur station transmitting signals to control a model craft may be operated
 
 <a name="97.217"></a>
 
-#### [§ 97.217](#97.217) Telemetry.
+#### § [97.217](#97.217) Telemetry.
 
 Telemetry transmitted by an amateur station on or within 50 km of the Earth's surface is not considered to be codes or ciphers intended to obscure the meaning of communications.
 	
@@ -1817,7 +1817,7 @@ Telemetry transmitted by an amateur station on or within 50 km of the Earth's su
 
 <a name="97.219"></a>
 
-#### [§ 97.219](#97.219) Message forwarding system.
+#### § [97.219](#97.219) Message forwarding system.
 
 <a name="97.219a"></a>
 
@@ -1854,7 +1854,7 @@ Telemetry transmitted by an amateur station on or within 50 km of the Earth's su
 
 <a name="97.221"></a>
 
-#### [§ 97.221](#97.221) Automatically controlled digital station.
+#### § [97.221](#97.221) Automatically controlled digital station.
 
 <a name="97.221a"></a>
 
@@ -1866,7 +1866,7 @@ Telemetry transmitted by an amateur station on or within 50 km of the Earth's su
 	
 <a name="97.221c"></a>
 
-(c) Except for channels specified in [§ 97.303(h)](#97.303h), a station may be automatically controlled while transmitting a RTTY or data emission on any other frequency authorized for such emission types provided that:
+(c) Except for channels specified in § [97.303(h)](#97.303h), a station may be automatically controlled while transmitting a RTTY or data emission on any other frequency authorized for such emission types provided that:
 	
 <a name="97.221c1"></a>
 
@@ -1894,7 +1894,7 @@ Telemetry transmitted by an amateur station on or within 50 km of the Earth's su
 
 <a name="97.301"></a>
 
-#### [§ 97.301](#97.301) Authorized frequency bands.
+#### § [97.301](#97.301) Authorized frequency bands.
 
 The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.
 		
@@ -1968,9 +1968,9 @@ The following transmitting frequency bands are available to an amateur station l
 
 <a name="97.303"></a>
 
-#### [§ 97.303](#97.303) Frequency sharing requirements.
+#### § [97.303](#97.303) Frequency sharing requirements.
 
-The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in [§ 97.301](#97.301) of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
+The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § [97.301](#97.301) of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 	
 <a name="97.303a"></a>
 
@@ -2107,11 +2107,11 @@ The following paragraphs summarize the frequency sharing requirements that apply
 	
 <a name="97.303m1"></a>
 
-(1) No amateur station shall transmit from north of Line A in the 420-430 MHz segment. See [§ 97.3(a)](#97.3a) for the definition of Line A.
+(1) No amateur station shall transmit from north of Line A in the 420-430 MHz segment. See § [97.3(a)](#97.3a) for the definition of Line A.
 	
 <a name="97.303m2"></a>
 
-(2) Amateur stations transmitting in the 420-430 MHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC in the land mobile service within 80.5 km of Buffalo, Cleveland, and Detroit. See [§ 2.106](#2.106), footnote US230 for specific frequencies and coordinates.
+(2) Amateur stations transmitting in the 420-430 MHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC in the land mobile service within 80.5 km of Buffalo, Cleveland, and Detroit. See § 2.106, footnote US230 for specific frequencies and coordinates.
 	
 <a name="97.303m3"></a>
 
@@ -2198,7 +2198,7 @@ The following paragraphs summarize the frequency sharing requirements that apply
 (t) Amateur stations transmitting in the 2.5 mm band must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government, the FCC, or other nations in the fixed, inter-satellite, or mobile services.
 	
 
-		Note to [§ 97.303](#97.303):
+		Note to § [97.303](#97.303):
 		
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. See 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
@@ -2214,7 +2214,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.305"></a>
 
-#### [§ 97.305](#97.305) Authorized emission types.
+#### § [97.305](#97.305) Authorized emission types.
 
 <a name="97.305a"></a>
 
@@ -2226,7 +2226,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.305c"></a>
 
-(c) A station may transmit the following emission types on the frequencies indicated, as authorized to the control operator, subject to the standards specified in [§ 97.307(f)](#97.307f):
+(c) A station may transmit the following emission types on the frequencies indicated, as authorized to the control operator, subject to the standards specified in § [97.307(f)](#97.307f):
 	
 
 			
@@ -2242,7 +2242,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.307"></a>
 
-#### [§ 97.307](#97.307) Emission standards.
+#### § [97.307](#97.307) Emission standards.
 
 <a name="97.307a"></a>
 
@@ -2266,7 +2266,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.307f"></a>
 
-(f) The following standards and limitations apply to transmissions on the frequencies specified in [§ 97.305(c)](#97.305c).
+(f) The following standards and limitations apply to transmissions on the frequencies specified in § [97.305(c)](#97.305c).
 	
 <a name="97.307f1"></a>
 
@@ -2278,7 +2278,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.307f3"></a>
 
-(3) Only a RTTY or data emission using a specified digital code listed in [§ 97.309(a)](#97.309a) may be transmitted. The authorized bandwidth is 2.8 kHz except in the 2200 m band and 630 m band. In the 2200 m band and the 630 m band the symbol rate must not exceed 300 bauds, or for frequency-shift keying, the frequency shift between mark and space must not exceed 1 kHz.
+(3) Only a RTTY or data emission using a specified digital code listed in § [97.309(a)](#97.309a) may be transmitted. The authorized bandwidth is 2.8 kHz except in the 2200 m band and 630 m band. In the 2200 m band and the 630 m band the symbol rate must not exceed 300 bauds, or for frequency-shift keying, the frequency shift between mark and space must not exceed 1 kHz.
 	
 <a name="97.307f4"></a>
 
@@ -2286,15 +2286,15 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.307f5"></a>
 
-(5) A RTTY, data or multiplexed emission using a specified digital code listed in [§ 97.309(a)](#97.309a) may be transmitted. The symbol rate must not exceed 19.6 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in [§ 97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 20 kHz.
+(5) A RTTY, data or multiplexed emission using a specified digital code listed in § [97.309(a)](#97.309a) may be transmitted. The symbol rate must not exceed 19.6 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in § [97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 20 kHz.
 	
 <a name="97.307f6"></a>
 
-(6) A RTTY, data or multiplexed emission using a specified digital code listed in [§ 97.309(a)](#97.309a) may be transmitted. The symbol rate must not exceed 56 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in [§ 97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 100 kHz.
+(6) A RTTY, data or multiplexed emission using a specified digital code listed in § [97.309(a)](#97.309a) may be transmitted. The symbol rate must not exceed 56 kilobauds. A RTTY, data or multiplexed emission using an unspecified digital code under the limitations listed in § [97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 100 kHz.
 	
 <a name="97.307f7"></a>
 
-(7) A RTTY, data or multiplexed emission using a specified digital code listed in [§ 97.309(a)](#97.309a) or an unspecified digital code under the limitations listed in [§ 97.309(b)](#97.309b) may be transmitted.
+(7) A RTTY, data or multiplexed emission using a specified digital code listed in § [97.309(a)](#97.309a) or an unspecified digital code under the limitations listed in § [97.309(b)](#97.309b) may be transmitted.
 	
 <a name="97.307f8"></a>
 
@@ -2318,7 +2318,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.307f13"></a>
 
-(13) A data emission using an unspecified digital code under the limitations listed in [§ 97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 100 kHz.
+(13) A data emission using an unspecified digital code under the limitations listed in § [97.309(b)](#97.309b) also may be transmitted. The authorized bandwidth is 100 kHz.
 	
 <a name="97.307f14"></a>
 
@@ -2335,7 +2335,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 (ii) The following requirements also apply:
 	
-(A) When transmitting the phone, RTTY, and data emissions, the suppressed carrier frequency may be set as specified in [§ 97.303(h)](#97.303h).
+(A) When transmitting the phone, RTTY, and data emissions, the suppressed carrier frequency may be set as specified in § [97.303(h)](#97.303h).
 	
 (B) The control operator of a station transmitting data or RTTY emissions must exercise care to limit the length of transmission so as to avoid causing harmful interference to United States Government stations.
 	
@@ -2350,11 +2350,11 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.309"></a>
 
-#### [§ 97.309](#97.309) RTTY and data emission codes.
+#### § [97.309](#97.309) RTTY and data emission codes.
 
 <a name="97.309a"></a>
 
-(a) Where authorized by §[§ 97.305(c)](#97.305c) and 97.307(f) of the part, an amateur station may transmit a RTTY or data emission using the following specified digital codes:
+(a) Where authorized by §§ [97.305(c)](#97.305c) and [97.307(f)](#97.307f) of the part, an amateur station may transmit a RTTY or data emission using the following specified digital codes:
 	
 <a name="97.309a1"></a>
 
@@ -2374,7 +2374,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.309b"></a>
 
-(b) Where authorized by §[§ 97.305(c)](#97.305c) and 97.307(f), a station may transmit a RTTY or data emission using an unspecified digital code, except to a station in a country with which the United States does not have an agreement permitting the code to be used. RTTY and data emissions using unspecified digital codes must not be transmitted for the purpose of obscuring the meaning of any communication. When deemed necessary by a Regional Director to assure compliance with the FCC Rules, a station must:
+(b) Where authorized by §§ [97.305(c)](#97.305c) and [97.307(f)](#97.307f), a station may transmit a RTTY or data emission using an unspecified digital code, except to a station in a country with which the United States does not have an agreement permitting the code to be used. RTTY and data emissions using unspecified digital codes must not be transmitted for the purpose of obscuring the meaning of any communication. When deemed necessary by a Regional Director to assure compliance with the FCC Rules, a station must:
 	
 <a name="97.309b1"></a>
 
@@ -2399,7 +2399,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.311"></a>
 
-#### [§ 97.311](#97.311) SS emission types.
+#### § [97.311](#97.311) SS emission types.
 
 <a name="97.311a"></a>
 
@@ -2436,7 +2436,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.313"></a>
 
-#### [§ 97.313](#97.313) Transmitter power standards.
+#### § [97.313](#97.313) Transmitter power standards.
 
 <a name="97.313a"></a>
 
@@ -2472,7 +2472,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.313f"></a>
 
-(f) No station may transmit with a transmitter power exceeding 50 W PEP on the UHF 70 cm band from an area specified in paragraph (a) of footnote US270 in [§ 2.106](#2.106), unless expressly authorized by the FCC after mutual agreement, on a case-by-case basis, between the Regional Director of the applicable field facility and the military area frequency coordinator at the applicable military base. An Earth station or telecommand station, however, may transmit on the 435-438 MHz segment with a maximum of 611 W effective radiated power (1 kW equivalent isotropically radiated power) without the authorization otherwise required. The transmitting antenna elevation angle between the lower half-power (−3 dB relative to the peak or antenna bore sight) point and the horizon must always be greater than 10°.
+(f) No station may transmit with a transmitter power exceeding 50 W PEP on the UHF 70 cm band from an area specified in paragraph (a) of footnote US270 in § 2.106, unless expressly authorized by the FCC after mutual agreement, on a case-by-case basis, between the Regional Director of the applicable field facility and the military area frequency coordinator at the applicable military base. An Earth station or telecommand station, however, may transmit on the 435-438 MHz segment with a maximum of 611 W effective radiated power (1 kW equivalent isotropically radiated power) without the authorization otherwise required. The transmitting antenna elevation angle between the lower half-power (−3 dB relative to the peak or antenna bore sight) point and the horizon must always be greater than 10°.
 	
 <a name="97.313g"></a>
 
@@ -2513,11 +2513,11 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.315"></a>
 
-#### [§ 97.315](#97.315) Certification of external RF power amplifiers.
+#### § [97.315](#97.315) Certification of external RF power amplifiers.
 
 <a name="97.315a"></a>
 
-(a) Any external RF power amplifier (see [§ 2.815](#2.815) of the FCC Rules) manufactured or imported for use at an amateur radio station must be certificated for use in the amateur service in accordance with subpart J of part 2 of the FCC Rules. No amplifier capable of operation below 144 MHz may be constructed or modified by a non-amateur service licensee without a grant of certification from the FCC.
+(a) Any external RF power amplifier (see § 2.815 of the FCC Rules) manufactured or imported for use at an amateur radio station must be certificated for use in the amateur service in accordance with subpart J of part 2 of the FCC Rules. No amplifier capable of operation below 144 MHz may be constructed or modified by a non-amateur service licensee without a grant of certification from the FCC.
 	
 <a name="97.315b"></a>
 
@@ -2550,7 +2550,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.317"></a>
 
-#### [§ 97.317](#97.317) Standards for certification of external RF power amplifiers.
+#### § [97.317](#97.317) Standards for certification of external RF power amplifiers.
 
 <a name="97.317a"></a>
 
@@ -2558,7 +2558,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 	
 <a name="97.317a1"></a>
 
-(1) Satisfy the spurious emission standards of [§ 97.307 (d)](#97.307 d) or (e) of this part, as applicable, when the amplifier is operated at the lesser of 1.5 kW PEP or its full output power and when the amplifier is placed in the “standby” or “off” positions while connected to the transmitter.
+(1) Satisfy the spurious emission standards of § [97.307 (d)](#97.307 d) or (e) of this part, as applicable, when the amplifier is operated at the lesser of 1.5 kW PEP or its full output power and when the amplifier is placed in the “standby” or “off” positions while connected to the transmitter.
 	
 <a name="97.317a2"></a>
 
@@ -2598,7 +2598,7 @@ The Table of Frequency Allocations contains the complete, unabridged, and legall
 
 <a name="97.401"></a>
 
-#### [§ 97.401](#97.401) Operation during a disaster.
+#### § [97.401](#97.401) Operation during a disaster.
 
 A station in, or within 92.6 km (50 nautical miles) of, Alaska may transmit emissions J3E and R3E on the channel at 5.1675 MHz (assigned frequency 5.1689 MHz) for emergency communications. The channel must be shared with stations licensed in the Alaska-Private Fixed Service. The transmitter power must not exceed 150 W PEP. A station in, or within 92.6 km of, Alaska may transmit communications for tests and training drills necessary to ensure the establishment, operation, and maintenance of emergency communication systems.
 		
@@ -2613,7 +2613,7 @@ A station in, or within 92.6 km (50 nautical miles) of, Alaska may transmit emis
 
 <a name="97.403"></a>
 
-#### [§ 97.403](#97.403) Safety of life and protection of property.
+#### § [97.403](#97.403) Safety of life and protection of property.
 
 No provision of these rules prevents the use by an amateur station of any means of radiocommunication at its disposal to provide essential communication needs in connection with the immediate safety of human life and immediate protection of property when normal communication systems are not available.
 
@@ -2625,7 +2625,7 @@ No provision of these rules prevents the use by an amateur station of any means 
 
 <a name="97.405"></a>
 
-#### [§ 97.405](#97.405) Station in distress.
+#### § [97.405](#97.405) Station in distress.
 
 <a name="97.405a"></a>
 
@@ -2643,7 +2643,7 @@ No provision of these rules prevents the use by an amateur station of any means 
 
 <a name="97.407"></a>
 
-#### [§ 97.407](#97.407) Radio amateur civil emergency service.
+#### § [97.407](#97.407) Radio amateur civil emergency service.
 
 <a name="97.407a"></a>
 
@@ -2703,7 +2703,7 @@ No provision of these rules prevents the use by an amateur station of any means 
 
 <a name="97.501"></a>
 
-#### [§ 97.501](#97.501) Qualifying for an amateur operator license.
+#### § [97.501](#97.501) Qualifying for an amateur operator license.
 
 Each applicant must pass an examination for a new amateur operator license grant and for each change in operator class. Each applicant for the class of operator license grant specified below must pass, or otherwise receive examination credit for, the following examination elements:
 		
@@ -2730,7 +2730,7 @@ Each applicant must pass an examination for a new amateur operator license grant
 
 <a name="97.503"></a>
 
-#### [§ 97.503](#97.503) Element standards.
+#### § [97.503](#97.503) Element standards.
 
 A written examination must be such as to prove that the examinee possesses the operational and technical qualifications required to perform properly the duties of an amateur service licensee. Each written examination must be comprised of a question set as follows:
 	
@@ -2757,7 +2757,7 @@ A written examination must be such as to prove that the examinee possesses the o
 
 <a name="97.505"></a>
 
-#### [§ 97.505](#97.505) Element credit.
+#### § [97.505](#97.505) Element credit.
 
 <a name="97.505a"></a>
 
@@ -2781,7 +2781,7 @@ A written examination must be such as to prove that the examinee possesses the o
 
 <a name="97.507"></a>
 
-#### [§ 97.507](#97.507) Preparing an examination.
+#### § [97.507](#97.507) Preparing an examination.
 
 <a name="97.507a"></a>
 
@@ -2814,7 +2814,7 @@ A written examination must be such as to prove that the examinee possesses the o
 
 <a name="97.509"></a>
 
-#### [§ 97.509](#97.509) Administering VE requirements.
+#### § [97.509](#97.509) Administering VE requirements.
 
 <a name="97.509a"></a>
 
@@ -2907,7 +2907,7 @@ A written examination must be such as to prove that the examinee possesses the o
 
 <a name="97.511"></a>
 
-#### [§ 97.511](#97.511) Examinee conduct.
+#### § [97.511](#97.511) Examinee conduct.
 
 Each examinee must comply with the instructions given by the administering VEs.
 	
@@ -2922,7 +2922,7 @@ Each examinee must comply with the instructions given by the administering VEs.
 
 <a name="97.513"></a>
 
-#### [§ 97.513](#97.513) VE session manager requirements.
+#### § [97.513](#97.513) VE session manager requirements.
 
 <a name="97.513a"></a>
 
@@ -2945,7 +2945,7 @@ Each examinee must comply with the instructions given by the administering VEs.
 
 	
 
-#### §[§ 97.515](#97.515)-97.517 [Reserved]
+#### §§ [97.515](#97.515)-[97.517](#97.517) [Reserved]
 
 
 
@@ -2955,7 +2955,7 @@ Each examinee must comply with the instructions given by the administering VEs.
 
 <a name="97.519"></a>
 
-#### [§ 97.519](#97.519) Coordinating examination sessions.
+#### § [97.519](#97.519) Coordinating examination sessions.
 
 <a name="97.519a"></a>
 
@@ -3008,7 +3008,7 @@ Each examinee must comply with the instructions given by the administering VEs.
 
 <a name="97.521"></a>
 
-#### [§ 97.521](#97.521) VEC qualifications.
+#### § [97.521](#97.521) VEC qualifications.
 
 No organization may serve as a VEC unless it has entered into a written agreement with the FCC. The VEC must abide by the terms of the agreement. In order to be eligible to be a VEC, the entity must:
 	
@@ -3039,9 +3039,9 @@ No organization may serve as a VEC unless it has entered into a written agreemen
 
 <a name="97.523"></a>
 
-#### [§ 97.523](#97.523) Question pools.
+#### § [97.523](#97.523) Question pools.
 
-All VECs must cooperate in maintaining one question pool for each written examination element. Each question pool must contain at least 10 times the number of questions required for a single examination. Each question pool must be published and made available to the public prior to its use for making a question set. Each question on each VEC question pool must be prepared by a VE holding the required FCC-issued operator license. See [§ 97.507(a)](#97.507a) of this part.
+All VECs must cooperate in maintaining one question pool for each written examination element. Each question pool must contain at least 10 times the number of questions required for a single examination. Each question pool must be published and made available to the public prior to its use for making a question set. Each question on each VEC question pool must be prepared by a VE holding the required FCC-issued operator license. See § [97.507(a)](#97.507a) of this part.
 
 
 
@@ -3051,7 +3051,7 @@ All VECs must cooperate in maintaining one question pool for each written examin
 
 <a name="97.525"></a>
 
-#### [§ 97.525](#97.525) Accrediting VEs.
+#### § [97.525](#97.525) Accrediting VEs.
 
 <a name="97.525a"></a>
 
@@ -3085,7 +3085,7 @@ All VECs must cooperate in maintaining one question pool for each written examin
 
 <a name="97.527"></a>
 
-#### [§ 97.527](#97.527) Reimbursement for expenses.
+#### § [97.527](#97.527) Reimbursement for expenses.
 
 VEs and VECs may be reimbursed by examinees for out-of-pocket expenses incurred in preparing, processing, administering, or coordinating an examination for an amateur operator license.
 	
