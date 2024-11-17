@@ -154,7 +154,8 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
             header = "\n\n" + header
             markdown += f"{header} {child.text}\n\n"
         elif child.tag in ["AUTH","SOURCE","EDNOTE"]:
-            markdown += f"{child.tag} {child.text}\n"
+            ... #ignore
+            # markdown += f"{child.tag} {child.text}\n"
         elif child.tag in ["TABLE"]:
             section = None
             for i in range(len(parents)):
@@ -173,7 +174,7 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
                     try:
                         letter = ancestors[0][ idx ].text.split()[0].strip()
                         break
-                    except AttributeError as e:
+                    except (AttributeError,IndexError) as e:
                         pass
                 try:
                     section = "97.301" + letter

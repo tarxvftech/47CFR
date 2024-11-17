@@ -2,9 +2,6 @@
 
 # PART 97—AMATEUR RADIO SERVICE 
 
-AUTH  
-SOURCE  
-EDNOTE  
 
 ## Subpart A—General Provisions
 
@@ -343,8 +340,6 @@ Test.
 Emissions containing no information having the designators with N as the third symbol. Test does not include pulse emissions with no information or modulation unless pulse emissions are also authorized in the frequency band.
 
 [54 FR 25857, June 20, 1989]
-
-EDNOTE
 
 <a name="97.5"></a>
 #### § [97.5](#97.5) Station license required.
