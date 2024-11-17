@@ -124,8 +124,16 @@ def add_anchors(text,part='97'):
             # processed_lines.append('</span>')
             indent = "  "*(len(current_section)-2) if len(current_section)>1 else ""
             indent += "- " if len(current_section)>1 else ""
-            # processed_lines.append(anchor_html)
-            processed_lines.append(indent+ line.lstrip() + "\t\t" + anchor_html)
+
+
+
+
+            #put it on the line ABOVE, so scrolling works as we hope, since putting it at the end of lines means long lines aren't always fully in view when scrolled to
+            if len(processed_lines[-1]):
+                processed_lines[-1] += "\t\t"
+            processed_lines[-1] += anchor_html 
+            
+            processed_lines.append(indent+ line.lstrip() ) #+ "\t\t" + anchor_html) #or put it at end of the line
         else:
             processed_lines.append(line)
 
