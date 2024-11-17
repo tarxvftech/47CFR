@@ -1140,7 +1140,7 @@ primary or secondary services), the basic principle is the equality of right to 
 60 m band:		<a name="97.303h1"></a>
   - (1) In the 5330.5-5406.4 kHz band (60 m band), amateur stations may transmit only on the five center frequencies specified in the table below. In order to meet this requirement, control operators of stations transmitting phone, data, and RTTY emissions (emission designators 2K80J3E, 2K80J2D, and 60H0J2B, respectively) may set the carrier frequency 1.5 kHz below the center frequency as specified in the table below. For CW emissions (emission designator 150HA1A), the carrier frequency is set to the center frequency. Amateur operators shall ensure that their emissions do not occupy more than 2.8 kHz centered on each of these center frequencies.
 
-TABLE at [97.301(h)](https://www.law.cornell.edu/cfr/text/47/97.301#h)
+TABLE at [97.303(h)](https://www.law.cornell.edu/cfr/text/47/97.303#h)
 <a name="97.303h2"></a>
   - (2) Amateur stations transmitting on the 60 m band must not cause harmful interference to, and must accept interference from, stations authorized by:
 <a name="97.303h2i"></a>
@@ -1241,7 +1241,7 @@ See
 <a name="97.305c"></a>
 - (c) A station may transmit the following emission types on the frequencies indicated, as authorized to the control operator, subject to the standards specified in § [97.307(f)](#97.307f):
 
-TABLE at [97.301(c)](https://www.law.cornell.edu/cfr/text/47/97.301#c)
+TABLE at [97.305(c)](https://www.law.cornell.edu/cfr/text/47/97.305#c)
 
 [54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012; 82 FR 27215, June 14, 2017; 85 FR 64069, Oct. 9, 2020; 88 FR 85127, Dec. 7, 2023]
 
@@ -1291,7 +1291,7 @@ In the 60 m band:
 <a name="97.307f14i"></a>
     - (i) A station may transmit only phone, RTTY, data, and CW emissions using the emission designators and any additional restrictions that are specified in the table below (except that the use of a narrower necessary bandwidth is permitted):
 
-TABLE at [97.301(i)](https://www.law.cornell.edu/cfr/text/47/97.301#i)
+TABLE at [97.307(i)](https://www.law.cornell.edu/cfr/text/47/97.307#i)
 <a name="97.307f14ii"></a>
     - (ii) The following requirements also apply:
 <a name="97.307f14iiA"></a>
@@ -1495,7 +1495,7 @@ A written examination must be such as to prove that the examinee possesses the o
 <a name="97.505a"></a>
 - (a) The administering VEs must give credit as specified below to an examinee holding any of the following license grants:
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [97.505(a)](https://www.law.cornell.edu/cfr/text/47/97.505#a)
 <a name="97.505b"></a>
 - (b) The administering VEs must give credit to an examinee holding a CSCE for each element the CSCE indicates the examinee passed within the previous 365 days.
 

@@ -177,9 +177,9 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
                     except (AttributeError,IndexError) as e:
                         pass
                 try:
-                    section = "97.301" + letter
+                    section += letter
                 except NameError as e:
-                    section = "97.301"
+                    pass
 
                 markdown += f"TABLE at "
                 lastbit = section.replace('(','#').replace(')','') #"97.301#a"

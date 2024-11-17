@@ -834,7 +834,7 @@ Canada/U.S.A. channeling arrangement for West Coast VHF maritime mobile public c
 <a name="80.57d5"></a>
   - (5) The agreed channeling arrangements for the west coast are as follows:
 
-TABLE at [97.301(5)](https://www.law.cornell.edu/cfr/text/47/97.301#5)
+TABLE at [80.57(5)](https://www.law.cornell.edu/cfr/text/47/80.57#5)
 
 <a name="80.57e"></a>
 - (e)
@@ -903,7 +903,7 @@ a
 
 Nothing in this section prohibits Commission inspectors from inspecting ships. The mandatory inspection of U.S. vessels must be conducted by an FCC-licensed technician holding an FCC General Radiotelephone Operator License, GMDSS Radio Maintainer's License, Second Class Radiotelegraph Operator's Certificate, First Class Radiotelegraph Operator's Certificate, or Radiotelegraph Operator License in accordance with the following table:
 
-TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
+TABLE at [80.59(1)](https://www.law.cornell.edu/cfr/text/47/80.59#1)
 <a name="80.59a2"></a>
   - (2) A certification that the ship has passed an inspection must be entered into the ship's log by the inspecting technician. The technician conducting the inspection and providing the certification must not be the vessel's owner, operator, master, or employee or their affiliates. Additionally, the vessel owner, operator, or ship's master must certify in the station log that the inspection was satisfactory. There are no FCC prior notice requirements for any inspection pursuant to paragraph (a)(1) of this section. An inspection of the bridge-to-bridge radio stations on board vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act must be conducted by the same FCC-licensed technician.
 <a name="80.59a3"></a>
@@ -1986,7 +1986,7 @@ Each ship subject to the Bridge-to-Bridge Act must have on board a radio operato
 <a name="80.165"></a>
 #### § [80.165](#80.165) Operator requirements for voluntary stations.
 
-TABLE at [97.301](https://www.law.cornell.edu/cfr/text/47/97.301)
+TABLE at [80.165](https://www.law.cornell.edu/cfr/text/47/80.165)
 
 [76 FR 67611, Nov. 2, 2011, as amended at 78 FR 23155, Apr. 18, 2013]
 
@@ -2204,7 +2204,7 @@ The verification procedure has been replaced by Supplier's Declaration of Confor
 <a name="80.205a"></a>
 - (a) An emission designator shows the necessary bandwidth for each class of emission of a station except that in ship earth stations it shows the occupied or necessary bandwidth, whichever is greater. The following table gives the class of emission and corresponding emission designator and authorized bandwidth:
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.205(a)](https://www.law.cornell.edu/cfr/text/47/80.205#a)
 <a name="80.205b"></a>
 - (b) For land stations the maximum authorized frequency deviation for F3E or G3E emission is as follows:
 <a name="80.205b1"></a>
@@ -2247,7 +2247,7 @@ TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
 <a name="80.207d"></a>
 - (d) The authorized classes of emission are as follows:
 
-TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
+TABLE at [80.207(d)](https://www.law.cornell.edu/cfr/text/47/80.207#d)
 
 [51 FR 31213, Sept. 2, 1986]
 
@@ -2258,7 +2258,7 @@ TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
 6
 unless shown in Hz.
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.209(a)](https://www.law.cornell.edu/cfr/text/47/80.209#a)
 <a name="80.209b"></a>
 - (b) When pulse modulation is used in land and ship radar stations operating in the bands above 2.4 GHz the frequency at which maximum emission occurs must be within the authorized bandwidth and must not be closer than 1.5/T MHz to the upper and lower limits of the authorized bandwidth where “T” is the pulse duration in microseconds. In the band 14.00-14.05 GHz the center frequency must not vary more than 10 MHz from 14.025 GHz.
 <a name="80.209c"></a>
@@ -2666,13 +2666,13 @@ The frequencies 156.375 MHz and 156.650 MHz are primarily intership frequencies.
 <a name="80.217b"></a>
 - (b) The electromagnetic field from receivers required by statute or treaty must not exceed the following value at a distance over sea water of one nautical mile from the receiver:
 
-TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
+TABLE at [80.217(b)](https://www.law.cornell.edu/cfr/text/47/80.217#b)
 
 or
 
 Deliver not more than the following amounts of power, to an artificial antenna having electrical characteristics equivalent to those of the average receiving antenna(s) use on shipboard:
 
-TABLE at [97.301Deliver](https://www.law.cornell.edu/cfr/text/47/97.301Deliver)
+TABLE at [80.217Deliver](https://www.law.cornell.edu/cfr/text/47/80.217Deliver)
 
 <a name="80.219"></a>
 #### § [80.219](#80.219) Special requirements for narrow-band direct-printing (NB-DP) equipment.
@@ -2819,7 +2819,7 @@ Brief signalling for the purposes of measuring the quality of a radio channel an
 <a name="80.229d1"></a>
   - (1) Protected frequencies (kHz)
 
-TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
+TABLE at [80.229(1)](https://www.law.cornell.edu/cfr/text/47/80.229#1)
 <a name="80.229d2"></a>
   - (2) Protected bands (kHz)
 
@@ -3209,7 +3209,7 @@ The distress call has absolute priority over all other transmissions. All statio
 
 The frequencies specified in the bands below are for use by mobile stations in distress. The conventional emission is shown. When a ship station cannot transmit on the designated frequency or the conventional emission, it may use any available frequency or emission. Frequencies for distress and safety calling using digital selective calling techniques are listed in § [80.359(b)](#80.359b). Distress and safety NB-DP frequencies are indicated by footnote 2 in § [80.361(b)](#80.361b).
 
-TABLE at [97.301The](https://www.law.cornell.edu/cfr/text/47/97.301The)
+TABLE at [80.313The](https://www.law.cornell.edu/cfr/text/47/80.313The)
 
 The maximum transmitter power obtainable may be used.
 
@@ -3636,7 +3636,7 @@ Frequencies in the 2000-27500 kHz band
 Ship station frequencies.
 The following table describes the calling frequencies in the 4000-27500 kHz band which are available for use by authorized ship stations equipped with crystal-controlled oscillators for A1A, J2A, J2B, or J2D radiotelegraphy. There are two series of frequencies for worldwide use and two series of frequencies for each geographic region. Ship stations with synthesized transmitters may operate on every full 100 Hz increment in the 0.5 kHz channel for the frequencies listed, except for 100 Hz above and below those designated for worldwide use. During normal business hours when not communicating on other frequencies, all U.S. coast radiotelegraph stations must monitor the worldwide frequencies and the initial calling frequencies for the region in which it is located. The specific frequencies which must be monitored by a coast station will vary with propagation conditions. The calling frequencies which are routinely monitored by specific coast stations can be determined by reference to the ITU publication entitled “List of Coast Stations.” Initial calls by ship stations must be made on the appropriate initial calling frequency first. Calls on the worldwide frequencies may be made only after calls on the appropriate initial calling frequency are unsuccessful.
 
-TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
+TABLE at [80.355(b)](https://www.law.cornell.edu/cfr/text/47/80.355#b)
 <a name="80.355b2"></a>
   - (2)
 Coast Station frequencies.
@@ -3661,13 +3661,13 @@ Ship station frequencies
 Frequencies in the 100-160 kHz band.
 The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.357(a)](https://www.law.cornell.edu/cfr/text/47/80.357#a)
 <a name="80.357a2"></a>
   - (2)
 Frequencies in the 405-525 kHz band.
 The following table describes the working carrier frequencies in the 405-525 kHz band which are assignable to ship stations. A ship station may transmit on a radiotelegraphy working channel of a coast station in the 415-490 kHz band when directed to do so by the coast station.
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.357(2)](https://www.law.cornell.edu/cfr/text/47/80.357#2)
 <a name="80.357a3"></a>
   - (3)
 Frequencies in the 2000-27500 kHz band.
@@ -3675,7 +3675,7 @@ This paragraph describes the working frequencies and Channel Series in the 2000-
 <a name="80.357a3i"></a>
     - (i) Two Channel Series will be assigned for routine use to each ship station. Frequencies from any other Channel Series may be used if the frequencies in the assigned Channel Series are not adequate for communications.
 
-TABLE at [97.301(i)](https://www.law.cornell.edu/cfr/text/47/97.301#i)
+TABLE at [80.357(i)](https://www.law.cornell.edu/cfr/text/47/80.357#i)
 <a name="80.357a3ii"></a>
     - (ii) If the frequencies listed in paragraph (3)(i) of this section are not adequate for communications, ship stations may use any of the non-paired narrow-band direct-printing frequencies listed in § [80.361(b)](#80.361b) of this part for A1A or J2A radiotelegraphy.
 <a name="80.357b"></a>
@@ -3685,7 +3685,7 @@ Coast station frequencies
 Frequencies in the 100-27500 kHz band.
 The following table describes the working carrier frequencies in the 100-27500 kHz band which are assignable to coast stations located in the designated geographical areas. The exclusive maritime mobile HF bands listed in the table contained in § [80.363(a)(2)](#80.363a2) of this chapter are also available for assignment to public coast stations for A1A, J2A, J2B, or J2D radiotelegraphy following coordination with government users.
 
-TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
+TABLE at [80.357(b)](https://www.law.cornell.edu/cfr/text/47/80.357#b)
 <a name="80.357b2"></a>
   - (2)
 Conditions of use.
@@ -3706,7 +3706,7 @@ The following conditions are applicable to these frequencies:
 General purpose calling.
 The following table describes the calling frequencies for use by authorized ship and coast stations for general purpose DSC. There are three series of paried frequencies. One series is for worldwide use; the other two series are for regional use. The “Series A” designation includes coast stations along, and ship stations in, the Atlantic Ocean, the Gulf of Mexico, and the Caribbean Sea. The “Series B” designation includes stations in any remaining areas. Stations must initiate contact on the appropriate regional frequency depending upon the location of the called station and propagation conditions. Acknowledgement is made on the paired frequency. The worldwide frequencies may be used for international calling, if calls on the appropriate regional frequencies are unsuccessful, or the regional series does not contain the appropriate band (e.g., 2 MHz). During normal working hours, all public coast stations capable of DSC operations must monitor the worldwide and regional frequencies appropriate for its location. The specific frequencies to be monitored will vary with propagation conditions.
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.359(a)](https://www.law.cornell.edu/cfr/text/47/80.359#a)
 <a name="80.359b"></a>
 - (b)
 Distress and safety calling.
@@ -3727,11 +3727,11 @@ Coast and ship stations may use DSC techniques for general calling purposes on t
 Paired channels.
 The following frequencies are available for assignment to public coast stations for narrow-band direct-printing (NBDP) and data transmissions. The paired ship frequencies are available for use by authorized ship stations for NBDP and data transmissions.
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.361(a)](https://www.law.cornell.edu/cfr/text/47/80.361#a)
 <a name="80.361b"></a>
 - (b) The following table describes the frequencies and Channel Series with F1B, J2B, or J2D emission which are assignable to ship stations for NBDP and data transmissions with other ship stations and public coast stations. Public coast stations may receive only on these frequencies.
 
-TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
+TABLE at [80.361(b)](https://www.law.cornell.edu/cfr/text/47/80.361#b)
 <a name="80.361c"></a>
 - (c)
 Distress and calling.
@@ -3750,13 +3750,13 @@ The frequencies 2174.5 kHz, 4177.5 kHz, 6268.0 kHz, 8376.5 kHz, 12520.0 kHz, and
 Ship station frequencies.
 The following frequencies are available for use by authorized ship stations for facsimile.
 
-TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
+TABLE at [80.363(1)](https://www.law.cornell.edu/cfr/text/47/80.363#1)
 <a name="80.363a2"></a>
   - (2)
 Coast station frequencies.
 The following table describes the exclusive maritime mobile HF frequency bands that are available for assignment to coast stations using 3 kHz channels for facsimile. However, any frequency in the 2000-27500 kHz bands listed in part 2 of the Commission's Rules as available for shared use by the maritime mobile service and other radio services, except for the 4000-4063 kHz and the 8100-8195 kHz bands, is available for assignment to coast stations for facsimile. Frequency assignments are subject to coordination with government users.
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.363(2)](https://www.law.cornell.edu/cfr/text/47/80.363#2)
 <a name="80.363b"></a>
 - (b) The frequencies in the 156-162 MHz band available for assignment to public coast stations that are contained in § [80.371(c)](#80.371c) of this part are also available for facsimile communications between ship and coast stations using F2C or F3C emission.
 <a name="80.363c"></a>
@@ -3771,7 +3771,7 @@ Frequencies in the 156-162 MHz band may be used for VHF digital small message se
 see		<a name="80.7"></a>
 § [80.7](#80.7)), except as follows
 
-TABLE at [97.301Frequencies](https://www.law.cornell.edu/cfr/text/47/97.301Frequencies)
+TABLE at [80.364Frequencies](https://www.law.cornell.edu/cfr/text/47/80.364Frequencies)
 
 [81 FR 90747, Dec. 15, 2016]
 
@@ -3828,7 +3828,7 @@ This section describes the general uses and frequencies assignable to maritime s
 <a name="80.369d"></a>
 - (d) In the 4000-27500 kHz band, the following coast frequencies are available for assignment to public coast stations for call and reply communications. The paired ship frequencies are available for use by authorized ship stations.
 
-TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
+TABLE at [80.369(d)](https://www.law.cornell.edu/cfr/text/47/80.369#d)
 <a name="80.369e"></a>
 - (e) In the 120-156 MHz band the following frequencies are used as indicated:
 <a name="80.369e1"></a>
@@ -3851,7 +3851,7 @@ This section describes the radiotelephony working frequencies assignable to ship
 Working frequencies in the 2000-4000 kHz band.
 The following table describes the working carrier frequency pairs in the 2000-4000 kHz band.
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.371(a)](https://www.law.cornell.edu/cfr/text/47/80.371#a)
 <a name="80.371b"></a>
 - (b)
 Working frequencies in the 4000-27500 kHz band.
@@ -3859,25 +3859,25 @@ This paragraph describes the working carrier frequencies in the 4000-27500 kHz b
 <a name="80.371b1"></a>
   - (1) The following table specifies the carrier frequencies available for assignment to public coast stations. The paired ship frequencies are available for use by authorized ship stations. The specific frequency assignment available to public coast stations for a particular geographic area is indicated by an “x” under the appropriate column. The allotment areas are in accordance with the “Standard Defined Areas” as identified in the International Radio Regulations, Appendix 25 Planning System, and indicated in the preface to the International Frequency List (IFL).
 
-TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
+TABLE at [80.371(1)](https://www.law.cornell.edu/cfr/text/47/80.371#1)
 <a name="80.371b2"></a>
   - (2) The following table specifies the non-paired carrier frequencies that are available for assignment to public coast stations for simplex operations. These frequencies are available for use by authorized ship stations for transmissions to coast stations (simplex operations). Assignments on these frequencies must accept interference. They are shared with government users and are considered “common use” frequencies under the international Radio Regulations. They cannot be notified for inclusion in the Master International Frequency Register, which provides stations with interference protection, but may be listed in the international List of Coast Stations. (
 See
 Radio Regulation No. 1220 and Recommendation 304.)
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.371(2)](https://www.law.cornell.edu/cfr/text/47/80.371#2)
 <a name="80.371c"></a>
 - (c)
 Working frequencies in the marine VHF 156-162 MHz band.		<a name="80.371c1"></a>
   - (1)(i) The frequency pairs listed in this paragraph are available for assignment to public coast stations for communications with ship stations and units on land.
 
-TABLE at [97.301(c)](https://www.law.cornell.edu/cfr/text/47/97.301#c)
+TABLE at [80.371(c)](https://www.law.cornell.edu/cfr/text/47/80.371#c)
 <a name="80.371c1ii"></a>
     - (ii) Service areas in the marine VHF 156-162 MHz band are VHF Public Coast Service Areas (VPCSAs). As listed in the table in this paragraph (c)(1)(ii), VPCSAs are based on, and composed of one or more of, the U.S. Department of Commerce's 172 Economic Areas (EAs).
 See
 60 FR 13114 (March 10, 1995). In addition, the Commission shall treat Guam and the Northern Mariana Islands, Puerto Rico and the United States Virgin Islands, American Samoa, and the Gulf of Mexico as EA-like areas, and has assigned them EA numbers 173-176, respectively. Maps of the EAs and VPCSAs are available for public inspection through the Federal Communications Commission's Reference Information Center, Tel: 1-888-225-5322. In addition to the EAs listed in the table in this paragraph (c)(1)(ii), each VPCSA also includes the adjacent waters under the jurisdiction of the United States. In VPCSAs 10-42, the working carrier frequency pair 157.250 MHz/161.850 MHz (Channel 25) is not available for assignment under this part.
 
-TABLE at [97.301(ii)](https://www.law.cornell.edu/cfr/text/47/97.301#ii)
+TABLE at [80.371(ii)](https://www.law.cornell.edu/cfr/text/47/80.371#ii)
 <a name="80.371c1iii"></a>
     - (iii) Subject to paragraph (c)(3) of this section, each licensee may also operate on 12.5 kHz offset frequencies in areas where the licensee is authorized on both frequencies adjacent to the offset frequency, and in areas where the licensee on the other side of the offset frequency consents to the licensee's use of the adjacent offset frequency. Coordination with Canada is required for offset operations under any circumstance in which operations on either adjoining 25 kHz channel would require such coordination.
 See		<a name="80.57"></a>
@@ -3901,7 +3901,7 @@ See		<a name="80.57"></a>
 Working frequencies in the Mississippi River System.
 The Mississippi River System includes the Mississippi River and connecting navigable waters other than the Great Lakes. The following simplex frequencies are available for assignment to public coast stations serving the Mississippi River System for radiotelephony communications. These simplex frequencies also are available for use by authorized ship stations within communication service range, whether or not the ship is operating within the confines of the Mississippi River System.
 
-TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
+TABLE at [80.371(d)](https://www.law.cornell.edu/cfr/text/47/80.371#d)
 <a name="80.57e"></a>
 - (e)
 Canada/U.S.A. channeling arrangement frequencies.
@@ -3931,7 +3931,7 @@ Assignment to private coast stations of radiotelephony frequencies in the 2000-2
   - (1)
 Frequencies avaiable.
 
-TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
+TABLE at [80.373(1)](https://www.law.cornell.edu/cfr/text/47/80.373#1)
 <a name="80.373b2"></a>
   - (2) Except for 2093.0 kHz and 2214.0 kHz the frequencies shown in paragraph (b)(1) of this section are authorized primarily for intership safety communications in the indicated geographic area.
 <a name="80.373b3"></a>
@@ -3955,7 +3955,7 @@ TABLE at [97.301(1)](https://www.law.cornell.edu/cfr/text/47/97.301#1)
 Frequencies in the 2000-27500 kHz bands for business and operational communications.		<a name="80.373c1"></a>
   - (1) The following simplex frequencies in the 2000-27500 kHz band are available for assignment to private coast stations for business and operational radiotelephone communications. These simplex frequencies also are available for use by authorized ship stations for business and operational radiotelephone communications.
 
-TABLE at [97.301(c)](https://www.law.cornell.edu/cfr/text/47/97.301#c)
+TABLE at [80.373(c)](https://www.law.cornell.edu/cfr/text/47/80.373#c)
 <a name="80.373c2"></a>
   - (2) Assignment of these frequencies is subject to the following general limitations:
 <a name="80.373c2i"></a>
@@ -4007,11 +4007,11 @@ Frequencies in the 2000-27500 kHz band for medical advisory communications.		<a 
 Note:
 the letter “A” following the channel designator indicates simplex operation on a channel designated internationally as a duplex channel.)
 
-TABLE at [97.301(f)](https://www.law.cornell.edu/cfr/text/47/97.301#f)
+TABLE at [80.373(f)](https://www.law.cornell.edu/cfr/text/47/80.373#f)
 <a name="80.373g"></a>
 - (g)(1) On-board communications: This section describes the carrier frequency pairs assignable for on-board mobile radiotelephony communications. The center of the on-board repeater antenna must not be located more than 3 meters (10 feet) above the ship's working deck. These frequencies are available on a shared basis with stations in the Industrial/Business Radio Pool.
 
-TABLE at [97.301(g)(1)](https://www.law.cornell.edu/cfr/text/47/97.301#g#1)
+TABLE at [80.373(g)(1)](https://www.law.cornell.edu/cfr/text/47/80.373#g#1)
 <a name="80.373g2"></a>
   - (2) Where needed, equipment designed for 12.5 kHz channel spacing using the additional frequencies 457.5375 MHz, 457.5625 MHz, 467.5375 MHz, and 467.5625 MHz may be introduced for on-board communications.
 <a name="80.373h"></a>
@@ -4028,7 +4028,7 @@ Repeater transmit: 161.875 MHz
 Frequencies in the 1600-5450 kHz band for private communications in Alaska.
 The following simplex frequencies are available for assignment to private fixed stations located in the State of Alaska for radiotelephony communications with ship stations. These simplex frequencies are available for use by authorized ship stations for radiotelephony communications with private fixed stations located in the State of Alaska.
 
-TABLE at [97.301(i)](https://www.law.cornell.edu/cfr/text/47/97.301#i)
+TABLE at [80.373(i)](https://www.law.cornell.edu/cfr/text/47/80.373#i)
 <a name="80.373j"></a>
 - (j)
 Frequencies for portable ship stations.
@@ -4055,7 +4055,7 @@ Frequencies in the 4000-4063 kHz band.		<a name="80.374a1"></a>
 <a name="80.374a2"></a>
   - (2) The following table describes the channelization of carrier frequencies in the 4000-4063 kHz band.
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.374(2)](https://www.law.cornell.edu/cfr/text/47/80.374#2)
 <a name="80.374b"></a>
 - (b)
 Frequencies in the 8100-8195 kHz band.		<a name="80.374b1"></a>
@@ -4069,7 +4069,7 @@ Frequencies in the 8100-8195 kHz band.		<a name="80.374b1"></a>
 <a name="80.374b2"></a>
   - (2) The following table describes the channelization of carrier frequencies in the 8100-8195 kHz band.
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.374(2)](https://www.law.cornell.edu/cfr/text/47/80.374#2)
 
 [56 FR 9896, Mar. 8, 1991, as amended at 65 FR 77826, Dec. 13, 2000; 68 FR 46970, Aug. 7, 2003]
 
@@ -4164,7 +4164,7 @@ This section describes the maritime frequencies assignable to aircraft stations 
 <a name="80.379a"></a>
 - (a) Available frequencies:
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.379(a)](https://www.law.cornell.edu/cfr/text/47/80.379#a)
 <a name="80.379b"></a>
 - (b) The conditions of use of the carrier frequencies in paragraph (a) of this section, are:
 <a name="80.379b1"></a>
@@ -4204,7 +4204,7 @@ TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
 
 The following carrier frequencies in the 72-76 MHz band are assignable to operational fixed stations using vertical polarization, if no harmful interference is caused to TV reception on Channels 4 and 5. These frequencies are shared with the Land Mobile and Aviation Radio Services.
 
-TABLE at [97.301The](https://www.law.cornell.edu/cfr/text/47/97.301The)
+TABLE at [80.381The](https://www.law.cornell.edu/cfr/text/47/80.381The)
 
 [51 FR 31213, Sept. 2, 1986, as amended at 54 FR 40059, Sept. 29, 1989]
 
@@ -4218,7 +4218,7 @@ This section describes the carrier frequencies available for use in the Coast Gu
 <a name="80.383a"></a>
 - (a) Assigned frequencies:
 
-TABLE at [97.301(a)](https://www.law.cornell.edu/cfr/text/47/97.301#a)
+TABLE at [80.383(a)](https://www.law.cornell.edu/cfr/text/47/80.383#a)
 <a name="80.383b"></a>
 - (b) The U.S. Coast Guard designated radio protection areas for VTS are as follows:
 <a name="80.383b1"></a>
@@ -4272,7 +4272,7 @@ Automated Maritime Telecommunications System (AMTS).		<a name="80.385a1"></a>
 <a name="80.385a2"></a>
   - (2) The following carrier frequencies are available for assignment to public coast stations for public correspondence communications with ship stations and units on land. AMTS operations must not cause harmful interference to the U.S. Navy SPASUR system which operates in the band 216.880-217.080 MHz.
 
-TABLE at [97.301(2)](https://www.law.cornell.edu/cfr/text/47/97.301#2)
+TABLE at [80.385(2)](https://www.law.cornell.edu/cfr/text/47/80.385#2)
 <a name="80.385a3"></a>
   - (3) As listed in the table in this paragraph (a)(3), AMTS Areas (AMTSAs) are based on, and composed of one or more of, the U.S Department of Commerce's 172 Economic Areas (EAs). See 60 FR 13114 (March 10, 1995). In addition, the Commission shall treat Puerto Rico, the United States Virgin Islands, and the Gulf of Mexico as EA-like areas. The Gulf of Mexico EA extends from 12 nautical miles off the United States Gulf coast outward into the Gulf. See § 27.6(a)(2) of this chapter and 62 FR 9636. Maps of the EAs and AMTSAs are available for public inspection through the Federal Communications Commission's Reference Information Center. These maps and data are also available on the FCC website at
 www.fcc.gov/oet/info/maps/areas/.
@@ -4280,7 +4280,7 @@ These maps and data are also available on the FCC Web site at
 www.fcc.gov/oet/info/maps/areas/.
 The Group A and B frequency pairs listed in the table in paragraph (a)(2) of this section are available for assignment to a single licensee in each of the AMTSAs listed in the table in this paragraph (a)(3). In addition to the listed EAs listed in the table in this paragraph (a)(3), each AMTSA also includes the adjacent waters under the jurisdiction of the United States.
 
-TABLE at [97.301(3)](https://www.law.cornell.edu/cfr/text/47/97.301#3)
+TABLE at [80.385(3)](https://www.law.cornell.edu/cfr/text/47/80.385#3)
 <a name="80.385a4"></a>
   - (4) Channels in the 219-220 MHz band are also used on a secondary, non-interference basis by amateur stations participating in digital message forwarding systems. Amateur stations may not cause harmful interference to AMTS operations and must accept any harmful interference from AMTS operation. Amateur stations within 80 km (50 miles) of an AMTS coast station must obtain written approval from the AMTS licensee prior to operating in the 219-220 MHz band. Amateur stations within 640 km (398 miles) of an AMTS coast station must notify the AMTS licensee in writing at least 30 days prior to initiation of operations in the 219-220 MHz band. All amateur stations must notify the American Radio Relay League in writing at least 30 days prior to initiation of operations in the 219-220 MHz band (ARRL, 225 Main St., Newington, CT 06111-1494).
 <a name="80.385b"></a>
@@ -4309,7 +4309,7 @@ TABLE at [97.301(3)](https://www.law.cornell.edu/cfr/text/47/97.301#3)
 - (b)
 Alaska private-fixed station frequencies:
 
-TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
+TABLE at [80.387(b)](https://www.law.cornell.edu/cfr/text/47/80.387#b)
 <a name="80.387c"></a>
 - (c) Use of the frequencies in paragraph (b) of this section must meet the following conditions:
 <a name="80.387c1"></a>
@@ -4319,7 +4319,7 @@ TABLE at [97.301(b)](https://www.law.cornell.edu/cfr/text/47/97.301#b)
 <a name="80.387d"></a>
 - (d) The following carrier frequency pairs are assignable for point-to-point communications between public fixed and private fixed stations:
 
-TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
+TABLE at [80.387(d)](https://www.law.cornell.edu/cfr/text/47/80.387#d)
 <a name="80.387e"></a>
 - (e) The public fixed station frequencies are assignable to common carriers.
 <a name="80.387f"></a>
@@ -5445,7 +5445,7 @@ Unless the normal use of the required radiotelephone station demonstrates that t
 <a name="80.871d"></a>
 - (d) The radiotelephone stations on ships subject to Part II of Title III of the Communications Act must be capable of operating on the frequency 156.800 MHz and in other respects meet the requirements of § [80.143](#80.143). The radiotelephone stations on ships subject to the Safety Convention must be capable of operating in the simplex mode on the ship station transmitting frequencies specified in the frequency band 156.025 MHz to 157.425 MHz and in the semiduplex mode on the two frequency channels specified in the following table:
 
-TABLE at [97.301(d)](https://www.law.cornell.edu/cfr/text/47/97.301#d)
+TABLE at [80.871(d)](https://www.law.cornell.edu/cfr/text/47/80.871#d)
 
 [51 FR 31213, Sept. 2, 1986; 52 FR 35246, Sept. 18, 1987, as amended at 54 FR 40059, Sept. 29, 1989; 73 FR 4487, Jan. 25, 2008; 82 FR 27213, June 14, 2017]
 
@@ -6292,7 +6292,7 @@ A record must be kept, as required by the Radio Regulations and § [80.409 (a)](
 
 The following table describes the frequencies used in the Global Maritime Distress and Safety System:
 
-TABLE at [97.301The](https://www.law.cornell.edu/cfr/text/47/97.301The)
+TABLE at [80.1077The](https://www.law.cornell.edu/cfr/text/47/80.1077The)
 
 [69 FR 64678, Nov. 8, 2004, as amended at 73 FR 4489, Jan. 25, 2008; 76 FR 67616, Nov. 2, 2011]
 
