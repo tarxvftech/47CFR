@@ -2672,7 +2672,7 @@ or
 
 Deliver not more than the following amounts of power, to an artificial antenna having electrical characteristics equivalent to those of the average receiving antenna(s) use on shipboard:
 
-TABLE at [80.217Deliver](https://www.law.cornell.edu/cfr/text/47/80.217Deliver)
+TABLE at [80.217(b)](https://www.law.cornell.edu/cfr/text/47/80.217#b)
 
 <a name="80.219"></a>
 #### § [80.219](#80.219) Special requirements for narrow-band direct-printing (NB-DP) equipment.

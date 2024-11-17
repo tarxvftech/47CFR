@@ -173,8 +173,9 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
                 for idx in range(idxs[0]-1,0,-1):
                     try:
                         letter = ancestors[0][ idx ].text.split()[0].strip()
+                        assert letter.startswith("(")
                         break
-                    except (AttributeError,IndexError) as e:
+                    except (AttributeError,IndexError,AssertionError) as e:
                         pass
                 try:
                     section += letter
