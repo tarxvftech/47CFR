@@ -61,6 +61,7 @@ def add_anchors(text,part='97'):
             r'^\#*\s*§?\s*(?P<part>%s\.\d+)'%(part)
             + r'|^\s*(?P<alpha>\([a-z]+\))' 
             + r'|^\s*(?P<number>\(\d+\))' 
+            + r'|^\s*(?P<ALPHA>\([A-Z]+\))' 
             #r'(?P<part>§\s*\d+\.\d+)' 
             #roman numerals, handled by alpha regex
             # r'|(?P<roman>\([ivx]+\))'
@@ -102,6 +103,10 @@ def add_anchors(text,part='97'):
                     while len(current_section) > 2:
                         current_section.pop()
                     current_section.append(match.group('number'))
+                elif match.group('ALPHA'):
+                    while len(current_section) > 4:
+                        current_section.pop()
+                    current_section.append(match.group('ALPHA'))
                 # elif match.group('roman'):
                     # while len(current_section) > 2:
                         # current_section.pop()
@@ -120,7 +125,7 @@ def add_anchors(text,part='97'):
             indent = "  "*(len(current_section)-2) if len(current_section)>1 else ""
             indent += "- " if len(current_section)>1 else ""
             # processed_lines.append(anchor_html)
-            processed_lines.append(indent+ line + "\t\t" + anchor_html)
+            processed_lines.append(indent+ line.lstrip() + "\t\t" + anchor_html)
         else:
             processed_lines.append(line)
 
@@ -128,12 +133,8 @@ def add_anchors(text,part='97'):
 
 
 
-def xmlet2markdown(et,level=0,prefixlevel=0):
+def xmlet2markdown(et,prefixlevel=0):
     markdown = ""
-    indent = "\t"*level
-    # if et.text and not et.text.isspace():
-        # markdown += f"{indent} {et.tag}:{et.text}"
-    level += 1
     for child in et:
         if child.tag in ["HEAD"]:
             mydivlevel = getdivlevel(et)
@@ -141,32 +142,24 @@ def xmlet2markdown(et,level=0,prefixlevel=0):
             header = "#"*(headerlevel)
             header = "\n\n" + header
             markdown += f"{header} {child.text}\n\n"
-            level = 0
         elif child.tag in ["AUTH","SOURCE","EDNOTE"]:
-            markdown += f"{indent}{child.tag} {child.text}\n"
-        # elif child.tag in ["P"]:
-            # t = ''.join(child.itertext())
-            # markdown += f"{indent} {t}\n\n"
-            # markdown += f"{indent} {child.text}\n\n"
-            # if child.text.strip() == "(50)":
-                # import pdb; pdb.set_trace()
-            # markdown += xmlet2markdown(child,level=level,prefixlevel=prefixlevel)
+            markdown += f"{child.tag} {child.text}\n"
         elif child.tag in ["TABLE"]:
             ...
             #add a link to the table in ecfr or render as markdown table
         else:
             if child.text:
-                markdown += f"{indent}{child.text}"
+                markdown += f"{child.text}"
             if list(child):
-                markdown += indent + xmlet2markdown(child,level=level,prefixlevel=prefixlevel)
+                markdown += xmlet2markdown(child,prefixlevel=prefixlevel)
             if child.tail:
-                markdown += f"{indent}{child.tail}\n"
+                markdown += f"{child.tail}"
     return markdown
 
 def xml_to_markdown(xml_string):
     root = ET.fromstring(xml_string)
     prefixlevel = getdivlevel(root)
-    markdown = xmlet2markdown(root, level=0, prefixlevel=prefixlevel)
+    markdown = xmlet2markdown(root, prefixlevel=prefixlevel)
     part=root.get('N')
     markdown = add_anchors(markdown, part=part)
     markdown = add_links(markdown, part=part, base_url="")
