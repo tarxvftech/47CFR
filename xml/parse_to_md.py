@@ -146,6 +146,7 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
     if parents == None:
         parents = []
     parents.append(et)
+    print(et.tag, len(parents))
     for child in et:
         if child.tag in ["HEAD"]:
             mydivlevel = getdivlevel(et)
@@ -163,20 +164,33 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
                     section = parent.get('N')
                     break
             if section:
+                # try:
+                ancestors = parents[-1:i*-1-2:-1][::-1]
+                assert(parent==ancestors[0])
+                idxs = []
+                for i in range(len(ancestors)-1):
+                    idxs.append( list(ancestors[i]).index(ancestors[i+1]) ) 
+                print(idxs)
+                for idx in range(idxs[0]-1,0,-1):
+                    try:
+                        letter = ancestors[0][ idx ].text.split()[0].strip()
+                        break
+                    except AttributeError as e:
+                        print(e)
+                        pass
                 try:
-                    ancestors = parents[-1:i*-1-2:-1][::-1]
-                    assert(parent==ancestors[0])
-                    idxs = []
-                    for i in range(len(ancestors)-1):
-                        idxs.append( list(ancestors[i]).index(ancestors[i+1]) ) 
-                    letter = ancestors[0][ idxs[0]-1 ].text.split()[0].strip()
                     section = "97.301" + letter
-                    markdown += f"TABLE at "
-                    lastbit = section.replace('(','#').replace(')','') #"97.301#a"
-                    s=f"[{section}](https://www.law.cornell.edu/cfr/text/47/{lastbit})"
-                    markdown += s
-                except ValueError as e:
-                    markdown += f"TABLE section unclear beyond {section}, sorry."
+                except NameError as e:
+                    section = "97.301"
+
+                markdown += f"TABLE at "
+                lastbit = section.replace('(','#').replace(')','') #"97.301#a"
+                s=f"[{section}](https://www.law.cornell.edu/cfr/text/47/{lastbit})"
+                markdown += s
+                # except ValueError as e:
+                    # print(e)
+                    # import pdb; pdb.set_trace()
+                    # markdown += f"TABLE section unclear beyond {section}, sorry."
             else:
                 markdown += f"TABLE section unclear, sorry."
                 
@@ -184,11 +198,13 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
             #add a link to the table in ecfr or render as markdown table
         else:
             if child.text:
-                markdown += f"{child.text}"
+                markdown += f"{child.text.strip()}\n"
             if list(child):
-                markdown += xmlet2markdown(child,prefixlevel=prefixlevel,parents=parents)
+                markdown += xmlet2markdown(child,prefixlevel=prefixlevel,parents=parents).strip()+"\n"
             if child.tail:
-                markdown += f"{child.tail}"
+                markdown += f"{child.tail.strip()}\n"
+    if parents:
+        parents.pop()
     return markdown
 
 def xml_to_markdown(xml_string):
