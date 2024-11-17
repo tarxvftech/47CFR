@@ -119,8 +119,8 @@ def add_anchors(text,part='97'):
             # processed_lines.append('</span>')
             indent = "  "*(len(current_section)-2) if len(current_section)>1 else ""
             indent += "- " if len(current_section)>1 else ""
-            processed_lines.append(anchor_html)
-            processed_lines.append(indent+ line)
+            # processed_lines.append(anchor_html)
+            processed_lines.append(indent+ line + "\t\t" + anchor_html)
         else:
             processed_lines.append(line)
 
