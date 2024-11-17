@@ -153,7 +153,7 @@ def xmlet2markdown(et,prefixlevel=0):
         elif child.tag in ["AUTH","SOURCE","EDNOTE"]:
             markdown += f"{child.tag} {child.text}\n"
         elif child.tag in ["TABLE"]:
-            ...
+            markdown += "\n" + ET.tostring(child, method="html", encoding='unicode')
             #add a link to the table in ecfr or render as markdown table
         else:
             if child.text:

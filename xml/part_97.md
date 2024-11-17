@@ -703,35 +703,766 @@ Telemetry transmitted by an amateur station on or within 50 km of the Earth's su
 The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.		<a name="97.301a"></a>
 - (a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class:
 		
-						<a name="97.301b"></a>
+				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU Region 1</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU Region 2</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU Region 3</TH>
+							<TH class="center border-top-single border-bottom-single">Sharing<br>requirements<br><E T="03">see</E> § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="center border-bottom-single border-right-single">VHF</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">6 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">50-54</TD>
+							<TD class="left border-right-single">50-54</TD>
+							<TD class="left">(a).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">2 m</TD>
+							<TD class="left border-right-single">144-146</TD>
+							<TD class="left border-right-single">144-148</TD>
+							<TD class="left border-right-single">144-148</TD>
+							<TD class="left">(a), (k).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">1.25 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">219-220</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left">(l).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single"> Do</TD>
+							<TD class="left border-bottom-single border-right-single"></TD>
+							<TD class="left border-bottom-single border-right-single">222-225</TD>
+							<TD class="left border-bottom-single border-right-single"></TD>
+							<TD class="left border-bottom-single">(a).</TD>
+						</TR>
+						<TR>
+							<TD class="center border-bottom-single border-right-single">UHF</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single border-right-single">MHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">70 cm</TD>
+							<TD class="left border-right-single">430-440</TD>
+							<TD class="left border-right-single">420-450</TD>
+							<TD class="left border-right-single">430-440</TD>
+							<TD class="left">(a), (b), (m).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">33 cm</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">902-928</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left">(a), (b), (e), (n).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">23 cm</TD>
+							<TD class="left border-right-single">1240-1300</TD>
+							<TD class="left border-right-single">1240-1300</TD>
+							<TD class="left border-right-single">1240-1300</TD>
+							<TD class="left">(b), (d), (o).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">13 cm</TD>
+							<TD class="left border-right-single">2300-2310</TD>
+							<TD class="left border-right-single">2300-2310</TD>
+							<TD class="left border-right-single">2300-2310</TD>
+							<TD class="left">(d), (p).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single"> Do</TD>
+							<TD class="left border-bottom-single border-right-single">2390-2450</TD>
+							<TD class="left border-bottom-single border-right-single">2390-2450</TD>
+							<TD class="left border-bottom-single border-right-single">2390-2450</TD>
+							<TD class="left border-bottom-single">(d), (e), (p).</TD>
+						</TR>
+						<TR>
+							<TD class="center border-bottom-single border-right-single">SHF</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">5 cm</TD>
+							<TD class="left border-right-single">5.650-5.850</TD>
+							<TD class="left border-right-single">5.650-5.925</TD>
+							<TD class="left border-right-single">5.650-5.850</TD>
+							<TD class="left">(a), (b), (e), (r).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">3 cm</TD>
+							<TD class="left border-right-single">10.0-10.5</TD>
+							<TD class="left border-right-single">10.0-10.5</TD>
+							<TD class="left border-right-single">10.0-10.5</TD>
+							<TD class="left">(a), (b), (k).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">1.2 cm</TD>
+							<TD class="left border-bottom-single border-right-single">24.00-24.25</TD>
+							<TD class="left border-bottom-single border-right-single">24.00-24.25</TD>
+							<TD class="left border-bottom-single border-right-single">24.00-24.25</TD>
+							<TD class="left border-bottom-single">(b), (d), (e).</TD>
+						</TR>
+						<TR>
+							<TD class="center border-bottom-single border-right-single">EHF</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single border-right-single">GHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">6 mm</TD>
+							<TD class="left border-right-single">47.0-47.2</TD>
+							<TD class="left border-right-single">47.0-47.2</TD>
+							<TD class="left border-right-single">47.0-47.2</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">4 mm</TD>
+							<TD class="left border-right-single">76-81</TD>
+							<TD class="left border-right-single">76-81</TD>
+							<TD class="left border-right-single">76-81</TD>
+							<TD class="left">(c), (f), (s).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">2.5 mm</TD>
+							<TD class="left border-right-single">122.25-123.00</TD>
+							<TD class="left border-right-single">122.25-123.00</TD>
+							<TD class="left border-right-single">122.25-123.00</TD>
+							<TD class="left">(e), (t).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">2 mm</TD>
+							<TD class="left border-right-single">134-141</TD>
+							<TD class="left border-right-single">134-141</TD>
+							<TD class="left border-right-single">134-141</TD>
+							<TD class="left">(c), (f).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">1 mm</TD>
+							<TD class="left border-right-single">241-250</TD>
+							<TD class="left border-right-single">241-250</TD>
+							<TD class="left border-right-single">241-250</TD>
+							<TD class="left">(c), (e), (f).</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single"> </TD>
+							<TD class="left border-bottom-single border-right-single">Above 275</TD>
+							<TD class="left border-bottom-single border-right-single">Above 275</TD>
+							<TD class="left border-bottom-single border-right-single">Above 275</TD>
+							<TD class="left border-bottom-single">(f).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<a name="97.301b"></a>
 - (b) For a station having a control operator who has been granted an Amateur Extra Class operator license, who holds a CEPT radio amateur license, or who holds a Class 1 IARP license:
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 1</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 2</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 3</TH>
+							<TH class="center border-top-single border-bottom-single">Sharing requirements see § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="center border-bottom-single">LF</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single">2200 m</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">(a), (g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 1</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 2</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 3</TH>
+							<TH rowspan="2" class="center border-top-single border-bottom-single">Sharing requirements <E T="03">see</E> § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">MF</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">160 m</TD>
+							<TD class="left border-right-single">1810-1850</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">630 m</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single">(g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
 		
-						<a name="97.301c"></a>
+		
+				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">HF</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single"> </TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">80 m</TD>
+							<TD class="left border-right-single">3.500-3.600</TD>
+							<TD class="left border-right-single">3.500-3.600</TD>
+							<TD class="left border-right-single">3.500-3.600</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">75 m</TD>
+							<TD class="left border-right-single">3.600-3.800</TD>
+							<TD class="left border-right-single">3.600-4.000</TD>
+							<TD class="left border-right-single">3.600-3.900</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">60 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">See § [97.303(h)](#97.303h)</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left">(h)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">40 m</TD>
+							<TD class="left border-right-single">7.000-7.200</TD>
+							<TD class="left border-right-single">7.000-7.300</TD>
+							<TD class="left border-right-single">7.000-7.200</TD>
+							<TD class="left">(i)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">30 m</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left">(j)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">20 m</TD>
+							<TD class="left border-right-single">14.000-14.350</TD>
+							<TD class="left border-right-single">14.000-14.350</TD>
+							<TD class="left border-right-single">14.000-14.350</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">17 m</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">15 m</TD>
+							<TD class="left border-right-single">21.000-21.450</TD>
+							<TD class="left border-right-single">21.000-21.450</TD>
+							<TD class="left border-right-single">21.000-21.450</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">12 m</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">10 m</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<a name="97.301c"></a>
 - (c) For a station having a control operator who has been granted an operator license of Advanced Class:
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 1</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 2</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 3</TH>
+							<TH class="center border-top-single border-bottom-single">Sharing requirements see § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="center border-bottom-single">LF</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single">2200 m</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">(a), (g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 1</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 2</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 3</TH>
+							<TH rowspan="2" class="center border-top-single border-bottom-single">Sharing requirements <E T="03">see</E> § [97.303](#97.303)<br>(Paragraph)</TH>
+						</TR>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">MF</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">160 m</TD>
+							<TD class="left border-right-single">1810-1850</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">630 m</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single">(g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
 		
-						<a name="97.301d"></a>
+		
+				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">HF</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single"> </TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">80 m</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">75 m</TD>
+							<TD class="left border-right-single">3.700-3.800</TD>
+							<TD class="left border-right-single">3.700-4.000</TD>
+							<TD class="left border-right-single">3.700-3.900</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">60 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">See § [97.303(h)](#97.303h)</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left">(h)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">40 m</TD>
+							<TD class="left border-right-single">7.025-7.200</TD>
+							<TD class="left border-right-single">7.025-7.300</TD>
+							<TD class="left border-right-single">7.025-7.200</TD>
+							<TD class="left">(i)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">30 m</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left">(j)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">20 m</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single primary-indent-hanging-2">Do</TD>
+							<TD class="left border-right-single">14.175-14.350</TD>
+							<TD class="left border-right-single">14.175-14.350</TD>
+							<TD class="left border-right-single">14.175-14.350</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">17 m</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">15 m</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single primary-indent-hanging-2">Do</TD>
+							<TD class="left border-right-single">21.225-21.450</TD>
+							<TD class="left border-right-single">21.225-21.450</TD>
+							<TD class="left border-right-single">21.225-21.450</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">12 m</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">10 m</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<a name="97.301d"></a>
 - (d) For a station having a control operator who has been granted an operator license of General Class:
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 1</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 2</TH>
+							<TH class="center border-top-single border-bottom-single">ITU Region 3</TH>
+							<TH class="center border-top-single border-bottom-single">Sharing requirements see § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="center border-bottom-single">LF</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single">kHz</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single">2200 m</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">135.7-137.8</TD>
+							<TD class="left border-bottom-single">(a), (g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 1</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 2</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 3</TH>
+							<TH rowspan="2" class="center border-top-single border-bottom-single">Sharing requirements <E T="03">see</E> § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">MF</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+							<TH class="center border-bottom-single border-right-single">kHz</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">160 m</TD>
+							<TD class="left border-right-single">1810-1850</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left border-right-single">1800-2000</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">630 m</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single border-right-single">472-479</TD>
+							<TD class="left border-bottom-single">(g).</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
 		
-						<a name="97.301e"></a>
+		
+				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">HF</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single"> </TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">80 m</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">75 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">3.800-4.000</TD>
+							<TD class="left border-right-single">3.800-3.900</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">60 m</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left border-right-single">See § [97.303(h)](#97.303h)</TD>
+							<TD class="left border-right-single"></TD>
+							<TD class="left">(h)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">40 m</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left">(i)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single primary-indent-hanging-2">Do</TD>
+							<TD class="left border-right-single">7.175-7.200</TD>
+							<TD class="left border-right-single">7.175-7.300</TD>
+							<TD class="left border-right-single">7.175-7.200</TD>
+							<TD class="left">(i)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">30 m</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left border-right-single">10.100-10.150</TD>
+							<TD class="left">(j)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">20 m</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left border-right-single">14.025-14.150</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single primary-indent-hanging-2">Do</TD>
+							<TD class="left border-right-single">14.225-14.350</TD>
+							<TD class="left border-right-single">14.225-14.350</TD>
+							<TD class="left border-right-single">14.225-14.350</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">17 m</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left border-right-single">18.068-18.168</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">15 m</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single primary-indent-hanging-2">Do</TD>
+							<TD class="left border-right-single">21.275-21.450</TD>
+							<TD class="left border-right-single">21.275-21.450</TD>
+							<TD class="left border-right-single">21.275-21.450</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">12 m</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left border-right-single">24.890-24.990</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">10 m</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single border-right-single">28.000-29.700</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+				<a name="97.301e"></a>
 - (e) For a station having a control operator who has been granted an operator license of Novice Class or Technician Class:
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 1</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 2</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">ITU region 3</TH>
+							<TH rowspan="2" class="center border-top-single border-bottom-single">Sharing requirements <E T="03">see</E> § [97.303](#97.303)<br>(paragraph)</TH>
+						</TR>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">HF</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-right-single">80 m</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left border-right-single">3.525-3.600</TD>
+							<TD class="left">(a)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">40 m</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left border-right-single">7.025-7.125</TD>
+							<TD class="left">(i)</TD>
+						</TR>
+						<TR>
+							<TD class="left border-right-single">15 m</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left border-right-single">21.025-21.200</TD>
+							<TD class="left"></TD>
+						</TR>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">10 m</TD>
+							<TD class="left border-bottom-single border-right-single">28.0-28.5</TD>
+							<TD class="left border-bottom-single border-right-single">28.0-28.5</TD>
+							<TD class="left border-bottom-single border-right-single">28.0-28.5</TD>
+							<TD class="left border-bottom-single"></TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-top-single border-bottom-single border-right-single">VHF</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-top-single border-bottom-single"> </TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">1.25 m</TD>
+							<TD class="left border-bottom-single border-right-single"></TD>
+							<TD class="left border-bottom-single border-right-single">222-225</TD>
+							<TD class="left border-bottom-single border-right-single"></TD>
+							<TD class="left border-bottom-single">(a)</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		
 				
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+					<THEAD>
+						<TR>
+							<TH class="center border-bottom-single border-right-single">UHF</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single border-right-single">MHz</TH>
+							<TH class="center border-bottom-single"> </TH>
+						</TR>
+					</THEAD>
+					<TBODY>
+						<TR>
+							<TD class="left border-bottom-single border-right-single">23 cm</TD>
+							<TD class="left border-bottom-single border-right-single">1270-1295</TD>
+							<TD class="left border-bottom-single border-right-single">1270-1295</TD>
+							<TD class="left border-bottom-single border-right-single">1270-1295</TD>
+							<TD class="left border-bottom-single">(d), (o)</TD>
+						</TR>
+					</TBODY>
+				</TABLE>
+		
 		[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017; 85 FR 64068, Oct. 9, 2020]
 	
 
@@ -760,7 +1491,39 @@ The following paragraphs summarize the frequency sharing requirements that apply
   - (5) Amateur stations causing harmful interference shall take all necessary measures to eliminate such interference—including temporary or permanent termination of transmissions.		<a name="97.303h"></a>
 - (h) 60 m band: (1) In the 5330.5-5406.4 kHz band (60 m band), amateur stations may transmit only on the five center frequencies specified in the table below. In order to meet this requirement, control operators of stations transmitting phone, data, and RTTY emissions (emission designators 2K80J3E, 2K80J2D, and 60H0J2B, respectively) may set the carrier frequency 1.5 kHz below the center frequency as specified in the table below. For CW emissions (emission designator 150HA1A), the carrier frequency is set to the center frequency. Amateur operators shall ensure that their emissions do not occupy more than 2.8 kHz centered on each of these center frequencies.
 	
-					<a name="97.303h2"></a>
+			
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+				<CAPTION><P class="title">60 M Band Frequencies (kHz)</P></CAPTION>
+				<THEAD>
+					<TR>
+						<TH class="center border-top-single border-bottom-single border-right-single">Carrier</TH>
+						<TH class="center border-top-single border-bottom-single">Center</TH>
+					</TR>
+				</THEAD>
+				<TBODY>
+					<TR>
+						<TD class="left border-right-single">5330.5</TD>
+						<TD class="right">5332.0</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">5346.5</TD>
+						<TD class="right">5348.0</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">5357.0</TD>
+						<TD class="right">5358.5</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">5371.5</TD>
+						<TD class="right">5373.0</TD>
+					</TR>
+					<TR>
+						<TD class="left border-bottom-single border-right-single">5403.5</TD>
+						<TD class="right border-bottom-single">5405.0</TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<a name="97.303h2"></a>
   - (2) Amateur stations transmitting on the 60 m band must not cause harmful interference to, and must accept interference from, stations authorized by:		<a name="97.303h2i"></a>
     - (i) The United States (NTIA and FCC) and other nations in the fixed service; and		<a name="97.303h2ii"></a>
     - (ii) Other nations in the mobile except aeronautical mobile service.		<a name="97.303h2i"></a>
@@ -816,6 +1579,326 @@ The following paragraphs summarize the frequency sharing requirements that apply
 - (c) A station may transmit the following emission types on the frequencies indicated, as authorized to the control operator, subject to the standards specified in § [97.307(f)](#97.307f):
 	
 			
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+				<THEAD>
+					<TR>
+						<TH class="center border-top-single border-bottom-single border-right-single">Wavelength band</TH>
+						<TH class="center border-top-single border-bottom-single border-right-single">Frequencies</TH>
+						<TH class="center border-top-single border-bottom-single border-right-single">Emission types authorized</TH>
+						<TH class="center border-top-single border-bottom-single">Standards see § [97.307](#97.307),
+						<br>paragraph(s):</TH>
+				</TR>
+			</THEAD>
+			<TBODY>
+				<TR>
+					<TD class="left border-right-single">(1) LF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 2200 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 2200 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(2) MF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 630 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 630 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 160 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iv) 160 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(3) HF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 80 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3), (9).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 75 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 60 m</TD>
+					<TD class="left border-right-single">5.332, 5.348, 5.3585, 5.373 and 5.405 MHz</TD>
+					<TD class="left border-right-single">Phone, RTTY, data</TD>
+					<TD class="left">(f)(14).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iv) 40 m</TD>
+					<TD class="left border-right-single">7.000-7.100 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3), (9).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(v) 40 m</TD>
+					<TD class="left border-right-single">7.075-7.100 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2), (9), (11).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(vi) 40 m</TD>
+					<TD class="left border-right-single">7.100-7.125 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3), (9).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(vii) 40 m</TD>
+					<TD class="left border-right-single">7.125-7.300 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(viii) 30 m</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ix) 20 m</TD>
+					<TD class="left border-right-single">14.00-14.15 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(x) 20 m</TD>
+					<TD class="left border-right-single">14.15-14.35 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xi) 17 m</TD>
+					<TD class="left border-right-single">18.068-18.110 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xii) 17 m</TD>
+					<TD class="left border-right-single">18.110-18.168 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xiii) 15 m</TD>
+					<TD class="left border-right-single">21.0-21.2 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3), (9).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xiv) 15 m</TD>
+					<TD class="left border-right-single">21.20-21.45 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xv) 12 m</TD>
+					<TD class="left border-right-single">24.89-24.93 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xvi) 12 m</TD>
+					<TD class="left border-right-single">24.93-24.99 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xvii) 10 m</TD>
+					<TD class="left border-right-single">28.0-28.3 MHz</TD>
+					<TD class="left border-right-single">RTTY, data</TD>
+					<TD class="left">(f)(3).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xviii) 10 m</TD>
+					<TD class="left border-right-single">28.3-28.5 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2), (10).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xix) 10 m</TD>
+					<TD class="left border-right-single">28.5-29.0 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(1), (2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(xx) 10 m</TD>
+					<TD class="left border-right-single">29.0-29.7 MHz</TD>
+					<TD class="left border-right-single">Phone, image</TD>
+					<TD class="left">(f)(2).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(4) VHF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 6 m</TD>
+					<TD class="left border-right-single">50.1-51.0 MHz</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data</TD>
+					<TD class="left">(f)(2), (5).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 6 m</TD>
+					<TD class="left border-right-single">51.0-54.0 MHz</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, test</TD>
+					<TD class="left">(f)(2), (5), (8).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 2 m</TD>
+					<TD class="left border-right-single">144.1-148.0 MHz</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, test</TD>
+					<TD class="left">(f)(2), (5), (8).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iv) 1.25 m</TD>
+					<TD class="left border-right-single">219-220 MHz</TD>
+					<TD class="left border-right-single">Data</TD>
+					<TD class="left">(f)(13).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(v) 1.25m</TD>
+					<TD class="left border-right-single">222-225 MHz</TD>
+					<TD class="left border-right-single">RTTY, data, test MCW, phone, SS, image</TD>
+					<TD class="left">(f)(2), (6), (8).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(5) UHF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 70 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test</TD>
+					<TD class="left">(f)(6), (8).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 33 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 23 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iv) 13 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(6) SHF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 5 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 3 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 1.2 cm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single">(7) EHF:</TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left border-right-single"></TD>
+					<TD class="left"></TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(i) 6 mm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(ii) 4 mm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iii) 2.5 mm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(iv) 2 mm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-right-single primary-indent-hanging-2">(v) 1 mm</TD>
+					<TD class="left border-right-single">Entire band</TD>
+					<TD class="left border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left">(f)(7), (8), and (12).</TD>
+				</TR>
+				<TR>
+					<TD class="left border-bottom-single border-right-single primary-indent-hanging-2">(vi) 1 mm</TD>
+					<TD class="left border-bottom-single border-right-single">Above 275 GHz</TD>
+					<TD class="left border-bottom-single border-right-single">MCW, phone, image, RTTY, data, SS, test, pulse</TD>
+					<TD class="left border-bottom-single">(f)(7), (8), and (12).</TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+
 [54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012; 82 FR 27215, June 14, 2017; 85 FR 64069, Oct. 9, 2020; 88 FR 85127, Dec. 7, 2023]
 
 
@@ -847,7 +1930,40 @@ The following paragraphs summarize the frequency sharing requirements that apply
   - (14) In the 60 m band:		<a name="97.307f14i"></a>
     - (i) A station may transmit only phone, RTTY, data, and CW emissions using the emission designators and any additional restrictions that are specified in the table below (except that the use of a narrower necessary bandwidth is permitted):
 	
-					<a name="97.307f14ii"></a>
+			
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+				<CAPTION><P class="title">Table 1 to Paragraph (f)(14)(i)—60 M Band Emission Requirements</P></CAPTION>
+				<THEAD>
+					<TR>
+						<TH class="center border-top-single border-bottom-single border-right-single">Emission type</TH>
+						<TH class="center border-top-single border-bottom-single border-right-single">Emission designator</TH>
+						<TH class="center border-top-single border-bottom-single">Restricted to:</TH>
+					</TR>
+				</THEAD>
+				<TBODY>
+					<TR>
+						<TD class="left border-right-single">Phone</TD>
+						<TD class="left border-right-single">2K80J3E</TD>
+						<TD class="left">Upper sideband transmissions (USB).</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">Data</TD>
+						<TD class="left border-right-single">2K80J2D</TD>
+						<TD class="left">USB (for example, PACTOR-III).</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">RTTY</TD>
+						<TD class="left border-right-single">60H0J2B</TD>
+						<TD class="left">USB (for example, PSK31).</TD>
+					</TR>
+					<TR>
+						<TD class="left border-bottom-single border-right-single">CW</TD>
+						<TD class="left border-bottom-single border-right-single">150HA1A</TD>
+						<TD class="left border-bottom-single">Morse telegraphy by means of on-off keying.</TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<a name="97.307f14ii"></a>
     - (ii) The following requirements also apply:		<a name="97.307f14iiA"></a>
       - (A) When transmitting the phone, RTTY, and data emissions, the suppressed carrier frequency may be set as specified in § [97.303(h)](#97.303h).		<a name="97.307f14iiB"></a>
       - (B) The control operator of a station transmitting data or RTTY emissions must exercise care to limit the length of transmission so as to avoid causing harmful interference to United States Government stations.
@@ -1035,7 +2151,34 @@ A written examination must be such as to prove that the examinee possesses the o
 <a name="97.505a"></a>
 - (a) The administering VEs must give credit as specified below to an examinee holding any of the following license grants:
 	
-					<a name="97.505b"></a>
+			
+<TABLE border="1" cellpadding="1" cellspacing="1" class="gpo_table" frame="void" width="100%">
+				<THEAD>
+					<TR>
+						<TH class="center border-top-single border-bottom-single border-right-single">Operator class</TH>
+						<TH class="center border-top-single border-bottom-single border-right-single">Unexpired (or within the renewal<br>grace period)</TH>
+						<TH class="center border-top-single border-bottom-single">Expired and beyond the renewal<br>grace period</TH>
+					</TR>
+				</THEAD>
+				<TBODY>
+					<TR>
+						<TD class="left border-right-single">(1) Amateur Extra</TD>
+						<TD class="left border-right-single">Not applicable</TD>
+						<TD class="left">Elements 3 and 4.</TD>
+					</TR>
+					<TR>
+						<TD class="left border-right-single">(2) Advanced; General; or Technician granted before March 21, 1987</TD>
+						<TD class="left border-right-single">Elements 2 and 3</TD>
+						<TD class="left">Element 3.</TD>
+					</TR>
+					<TR>
+						<TD class="left border-bottom-single border-right-single">(3) Technician Plus; or Technician granted on or after March 21, 1987</TD>
+						<TD class="left border-bottom-single border-right-single">Element 2</TD>
+						<TD class="left border-bottom-single">No credit.</TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<a name="97.505b"></a>
 - (b) The administering VEs must give credit to an examinee holding a CSCE for each element the CSCE indicates the examinee passed within the previous 365 days.
 	[79 FR 35291, June 20, 2014]
 
