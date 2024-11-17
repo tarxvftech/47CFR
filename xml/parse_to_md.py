@@ -146,7 +146,6 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
     if parents == None:
         parents = []
     parents.append(et)
-    print(et.tag, len(parents))
     for child in et:
         if child.tag in ["HEAD"]:
             mydivlevel = getdivlevel(et)
@@ -170,13 +169,11 @@ def xmlet2markdown(et,prefixlevel=0,parents=None):
                 idxs = []
                 for i in range(len(ancestors)-1):
                     idxs.append( list(ancestors[i]).index(ancestors[i+1]) ) 
-                print(idxs)
                 for idx in range(idxs[0]-1,0,-1):
                     try:
                         letter = ancestors[0][ idx ].text.split()[0].strip()
                         break
                     except AttributeError as e:
-                        print(e)
                         pass
                 try:
                     section = "97.301" + letter
