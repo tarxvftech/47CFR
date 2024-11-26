@@ -1158,7 +1158,7 @@ TABLE at [97.303(h)](https://www.law.cornell.edu/cfr/text/47/97.303#h)
 - (l)
 In the 219-220 MHz segment:
 <a name="97.303l1"></a>
-  - (1) Use is restricted to amateur stations participating as forwarding stations in fixed point-to-point digital message forwarding systems, including intercity packet backbone networks. It is not available for other purposes.
+  - (1) (deleted)
 <a name="97.303l2"></a>
   - (2) Amateur stations must not cause harmful interference to, and must accept interference from, stations authorized by:
 <a name="97.303l2i"></a>
