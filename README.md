@@ -35,14 +35,13 @@ and then the first joint ORI/IEEE workshop discussing options:
 
 [29 October 2024 The Haunted Band Workshop](https://www.youtube.com/watch?v=wGX__qcFrT4)
 
-The next 219 MHz workshop is tentatively scheduled for the end of November 2024.
+
 
 #### How To Join / How To Help
 Contributions here are a great way to start! Please also indicate your interest and [join
 ORI](https://www.openresearch.institute/getting-started/). This link
 includes details on mailing lists, Slack chat, and other ways to get
 involved!
-
 
 Keep informed of technical and regulatory work from ORI by subscribing to the [Inner Circle newsletter](http://eepurl.com/h_hYzL)
 
