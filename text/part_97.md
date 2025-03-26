@@ -795,7 +795,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 <a name="97.201a"></a>
 - (a) Any amateur station licensed to a holder of a Technician, General, Advanced or Amateur Extra Class operator license may be an auxiliary station. A holder of a Technician, General, Advanced or Amateur Extra Class operator license may be the control operator of an auxiliary station, subject to the privileges of the class of operator license held.
 <a name="97.201b"></a>
-- (b) An auxiliary station may transmit only on the 2 m and shorter wavelength bands, except the 144.0-144.5 MHz, 145.8-146.0 MHz, 219-220 MHz, 222.00-222.15 MHz, 431-433 MHz, and 435-438 MHz segments.
+- (b) An auxiliary station may transmit only on the 2 m and shorter wavelength bands, except the 144.0-144.5 MHz, 145.8-146.0 MHz, 222.00-222.15 MHz, 431-433 MHz, and 435-438 MHz segments.
 <a name="97.201c"></a>
 - (c) Where an auxiliary station causes harmful interference to another auxiliary station, the licensees are equally and fully responsible for resolving the interference unless one station's operation is recommended by a frequency coordinator and the other station's is not. In that case, the licensee of the non-coordinated auxiliary station has primary responsibilty to resolve the interference.
 <a name="97.201d"></a>
@@ -1365,7 +1365,7 @@ TABLE at [97.307(i)](https://www.law.cornell.edu/cfr/text/47/97.307#i)
 <a name="97.313g"></a>
 - (g) No station may transmit with a transmitter power exceeding 50 W PEP on the 33 cm band from within 241 km of the boundaries of the White Sands Missile Range. Its boundaries are those portions of Texas and New Mexico bounded on the south by latitude 31°41′ North, on the east by longitude 104°11′ West, on the north by latitude 34°30′ North, and on the west by longitude 107°30′ West.
 <a name="97.313h"></a>
-- (h) No station may transmit with a transmitter power exceeding 50 W PEP on the 219-220 MHz segment of the 1.25 m band.
+- (h) (deleted)
 <a name="97.313i"></a>
 - (i) No station may transmit with an effective radiated power (ERP) exceeding 100 W PEP on the 60 m band. For the purpose of computing ERP, the transmitter PEP will be multiplied by the antenna gain relative to a half-wave dipole antenna. A half-wave dipole antenna will be presumed to have a gain of 1 (0 dBd). Licensees using other antennas must maintain in their station records either the antenna manufacturer's data on the antenna gain or calculations of the antenna gain.
 <a name="97.313j"></a>
