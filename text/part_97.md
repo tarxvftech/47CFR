@@ -795,7 +795,7 @@ Transmissions to a different country, where permitted, shall be limited to commu
 <a name="97.201a"></a>
 - (a) Any amateur station licensed to a holder of a Technician, General, Advanced or Amateur Extra Class operator license may be an auxiliary station. A holder of a Technician, General, Advanced or Amateur Extra Class operator license may be the control operator of an auxiliary station, subject to the privileges of the class of operator license held.
 <a name="97.201b"></a>
-- (b) An auxiliary station may transmit only on the 2 m and shorter wavelength bands, except the 144.0-144.5 MHz, 145.8-146.0 MHz, 219-220 MHz, 222.00-222.15 MHz, 431-433 MHz, and 435-438 MHz segments.
+- (b) An auxiliary station may transmit only on the 2 m and shorter wavelength bands, except the 144.0-144.5 MHz, 145.8-146.0 MHz, 222.00-222.15 MHz, 431-433 MHz, and 435-438 MHz segments.
 <a name="97.201c"></a>
 - (c) Where an auxiliary station causes harmful interference to another auxiliary station, the licensees are equally and fully responsible for resolving the interference unless one station's operation is recommended by a frequency coordinator and the other station's is not. In that case, the licensee of the non-coordinated auxiliary station has primary responsibilty to resolve the interference.
 <a name="97.201d"></a>
@@ -1158,7 +1158,7 @@ TABLE at [97.303(h)](https://www.law.cornell.edu/cfr/text/47/97.303#h)
 - (l)
 In the 219-220 MHz segment:
 <a name="97.303l1"></a>
-  - (1) Use is restricted to amateur stations participating as forwarding stations in fixed point-to-point digital message forwarding systems, including intercity packet backbone networks. It is not available for other purposes.
+  - (1) (deleted)
 <a name="97.303l2"></a>
   - (2) Amateur stations must not cause harmful interference to, and must accept interference from, stations authorized by:
 <a name="97.303l2i"></a>
@@ -1166,11 +1166,11 @@ In the 219-220 MHz segment:
 <a name="97.303l2ii"></a>
     - (ii) Other nations in the fixed and maritime mobile services.
 <a name="97.303l3"></a>
-  - (3) No amateur station may transmit unless the licensee has given written notification of the station's specific geographic location for such transmissions in order to be incorporated into a database that has been made available to the public. The notification must be given at least 30 days prior to making such transmissions. The notification must be given to: The American Radio Relay League, Inc., 225 Main Street, Newington, CT 06111-1494.
+  - (3) (deleted)
 <a name="97.303l4"></a>
-  - (4) No amateur station may transmit from a location that is within 640 km of an AMTS coast station that operates in the 217-218 MHz and 219-220 MHz bands unless the amateur station licensee has given written notification of the station's specific geographic location for such transmissions to the AMTS licensee. The notification must be given at least 30 days prior to making such transmissions. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section.
+  - (4) (deleted)
 <a name="97.303l5"></a>
-  - (5) No amateur station may transmit from a location that is within 80 km of an AMTS coast station that uses frequencies in the 217-218 MHz and 219-220 MHz bands unless that amateur station licensee holds written approval from that AMTS licensee. The location of AMTS coast stations using the 217-218/219-220 MHz channels may be obtained as noted in paragraph (l)(3) of this section.
+  - (5) (deleted)
 <a name="97.303m"></a>
 - (m)
 In the 70 cm band:
@@ -1365,7 +1365,7 @@ TABLE at [97.307(i)](https://www.law.cornell.edu/cfr/text/47/97.307#i)
 <a name="97.313g"></a>
 - (g) No station may transmit with a transmitter power exceeding 50 W PEP on the 33 cm band from within 241 km of the boundaries of the White Sands Missile Range. Its boundaries are those portions of Texas and New Mexico bounded on the south by latitude 31°41′ North, on the east by longitude 104°11′ West, on the north by latitude 34°30′ North, and on the west by longitude 107°30′ West.
 <a name="97.313h"></a>
-- (h) No station may transmit with a transmitter power exceeding 50 W PEP on the 219-220 MHz segment of the 1.25 m band.
+- (h) (deleted)
 <a name="97.313i"></a>
 - (i) No station may transmit with an effective radiated power (ERP) exceeding 100 W PEP on the 60 m band. For the purpose of computing ERP, the transmitter PEP will be multiplied by the antenna gain relative to a half-wave dipole antenna. A half-wave dipole antenna will be presumed to have a gain of 1 (0 dBd). Licensees using other antennas must maintain in their station records either the antenna manufacturer's data on the antenna gain or calculations of the antenna gain.
 <a name="97.313j"></a>
